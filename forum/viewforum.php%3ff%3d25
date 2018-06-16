@@ -1,0 +1,802 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="Список форумов УРАЛЬСКАЯ СЛОБОДА" />
+<link rel="search" href="./search.php" title="Поиск" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Пользователи" />
+<link rel="up" href="index.php" title="Список форумов УРАЛЬСКАЯ СЛОБОДА" />
+
+<title>УРАЛЬСКАЯ СЛОБОДА :: Просмотр форума - Р Е К Л А М А   З Д Е С Ь !!!</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E5E5E5;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #EFEFEF; }
+td.row2	{ background-color: #DEE3E7; }
+td.row3	{ background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/images/cellpic2.jpg);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFA34F; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/images/cellpic1.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4">
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php"><img src="templates/subSilver/images/logo_phpBB.gif" border="0" alt="Список форумов УРАЛЬСКАЯ СЛОБОДА" vspace="1" /></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">УРАЛЬСКАЯ СЛОБОДА</span><br /><span class="gen">форумы родового поселения<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a>&nbsp; &nbsp;<a href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Поиск" hspace="3" />Поиск</a>&nbsp; &nbsp;<a href="memberlist.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Пользователи" hspace="3" />Пользователи</a>&nbsp; &nbsp;<a href="groupcp.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Группы" hspace="3" />Группы</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Регистрация" hspace="3" />Регистрация</a>&nbsp;
+						</span></td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Профиль" hspace="3" />Профиль</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Войти и проверить личные сообщения" hspace="3" />Войти и проверить личные сообщения</a>&nbsp; &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Вход" hspace="3" />Вход</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<form method="post" action="viewforum.php?f=25&amp;start=0">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=25">Р Е К Л А М А   З Д Е С Ь !!!</a><br /><span class="gensmall"><b>Модераторы: Нет<br /><br />Сейчас этот форум просматривают: Нет</b></span></td>
+	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b>На страницу <b>1</b>, <a href="viewforum.php?f=25&amp;topicdays=0&amp;start=50">2</a>&nbsp;&nbsp;<a href="viewforum.php?f=25&amp;topicdays=0&amp;start=50">След.</a></b></span></td>
+	</tr>
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=25"><img src="templates/subSilver/images/lang_russian/post.gif" border="0" alt="Начать новую тему" /></a></td>
+	  <td align="left" valign="middle" class="nav" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">Список форумов УРАЛЬСКАЯ СЛОБОДА</a> -> <a class="nav" href="viewforum.php?f=25">Р Е К Л А М А   З Д Е С Ь !!!</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=25&amp;mark=topics">Отметить все темы как прочтённые</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Темы&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Ответов&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Автор&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Просмотров&nbsp;</th>
+	  <th align="center" class="thCornerR" nowrap="nowrap">&nbsp;Последнее сообщение&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder_sticky.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>Прилеплена:</b> <a href="viewtopic.php?t=521" class="topictitle">ВНИМАНИЕ!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2">Sopernikov</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1003</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Янв 04, 2006 8:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2">Sopernikov</a> <a href="viewtopic.php?p=552#552"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2675" class="topictitle">замуж за иностранца</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">henserylent</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">140</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Окт 05, 2007 10:38 am<br />henserylent  <a href="viewtopic.php?p=2801#2801"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2666" class="topictitle">Кто-либо  зарабатывает в интернете ?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Cextpefecap</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">161</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Окт 01, 2007 1:36 pm<br />Cextpefecap  <a href="viewtopic.php?p=2792#2792"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2660" class="topictitle">Почему вы удаляете мои сообщения?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">eberbach</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">166</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Сен 28, 2007 1:27 pm<br />eberbach  <a href="viewtopic.php?p=2786#2786"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2659" class="topictitle">Нужен пароль к e-mail?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">oxislatastice</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">160</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Сен 28, 2007 11:01 am<br />oxislatastice  <a href="viewtopic.php?p=2785#2785"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2658" class="topictitle">Всем привет</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">ladefence</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">162</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Сен 28, 2007 12:09 am<br />ladefence  <a href="viewtopic.php?p=2784#2784"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2656" class="topictitle">Medical equipment supply</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Medcompl</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">163</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Сен 26, 2007 5:10 am<br />Medcompl  <a href="viewtopic.php?p=2782#2782"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2654" class="topictitle">Белый каталог ресурсов - статьи о раскрутке, раскрутка сайто</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">tositesnew</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">153</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Сен 24, 2007 11:55 am<br />tositesnew  <a href="viewtopic.php?p=2780#2780"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2653" class="topictitle">Станки из России, Китая, Чехии и Тайваня</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">zerrojkl</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">163</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Сен 24, 2007 12:25 am<br />zerrojkl  <a href="viewtopic.php?p=2779#2779"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2651" class="topictitle">Автомобильная GPS навигация. Кто использует?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">xdriver82</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">184</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вс Сен 23, 2007 11:54 am<br />xdriver82  <a href="viewtopic.php?p=2777#2777"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2649" class="topictitle">Зима-холода... отопление не топит - что делать?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">climatainf</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">153</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Сен 21, 2007 10:05 pm<br />climatainf  <a href="viewtopic.php?p=2775#2775"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2648" class="topictitle">Форум об интернет провайдерах Полтавы</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">forumpoltava</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">172</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Сен 21, 2007 2:08 pm<br />forumpoltava  <a href="viewtopic.php?p=2774#2774"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2641" class="topictitle">Рассылка на форумы лучший метод для раскрутке сайтов.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">forumspa2007</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">150</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Сен 15, 2007 10:36 pm<br />forumspa2007  <a href="viewtopic.php?p=2767#2767"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2631" class="topictitle">Подработка в свободное время на дому.  Срочно требуются рабо</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">AlomiAdvime</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">171</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Сен 08, 2007 7:17 pm<br />AlomiAdvime  <a href="viewtopic.php?p=2757#2757"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2630" class="topictitle">Best offer to your forum</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">gusimol</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">162</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Сен 08, 2007 2:00 pm<br />gusimol  <a href="viewtopic.php?p=2756#2756"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2629" class="topictitle">Белые каталоги сайтов и статей</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">seomaster2007</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">148</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Сен 08, 2007 4:19 am<br />seomaster2007  <a href="viewtopic.php?p=2755#2755"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2627" class="topictitle">Tramadol online! No Prescription. Lowest prices</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">kinbaart</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">159</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Сен 06, 2007 3:20 pm<br />kinbaart  <a href="viewtopic.php?p=2753#2753"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2626" class="topictitle">Tramadol online order. Lowest prices</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">leonchus</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">173</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Сен 05, 2007 8:16 am<br />leonchus  <a href="viewtopic.php?p=2752#2752"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2616" class="topictitle">cat doll nude pussyaltavista babel fish translator</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Klissnar</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">211</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Авг 23, 2007 11:05 am<br />Klissnar  <a href="viewtopic.php?p=2742#2742"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2615" class="topictitle">круче чем порнуха</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">ИГОРЬ ДЖЕБ</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">228</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Авг 23, 2007 9:50 am<br />ИГОРЬ ДЖЕБ  <a href="viewtopic.php?p=2741#2741"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2614" class="topictitle">Интернет магазин цифровых товаров.Ваш реальный заработок</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">wmzsh207</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">206</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Авг 23, 2007 4:05 am<br />wmzsh207  <a href="viewtopic.php?p=2740#2740"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2609" class="topictitle">Evan Rachel Good Nipple Slip</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Aynsworthz</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">205</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Авг 20, 2007 3:42 am<br />Aynsworthz  <a href="viewtopic.php?p=2735#2735"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2607" class="topictitle">Автомобильный сайт.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">automatix</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">227</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Авг 18, 2007 8:40 am<br />automatix  <a href="viewtopic.php?p=2733#2733"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2601" class="topictitle">Best goods. Online shops.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">An!m@LL</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">216</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Авг 15, 2007 10:38 am<br />An!m@LL  <a href="viewtopic.php?p=2727#2727"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2598" class="topictitle">Раскрутка и продвижение сайтов.Программы и скрипты</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">raskvsef07</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">252</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вс Авг 12, 2007 3:10 pm<br />raskvsef07  <a href="viewtopic.php?p=2724#2724"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2595" class="topictitle">Best goods. Online shops.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">nnfgcvxn</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">252</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Авг 11, 2007 6:17 pm<br />nnfgcvxn  <a href="viewtopic.php?p=2721#2721"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2593" class="topictitle">Зарабатываем вместе</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Александр</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">282</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вт Авг 07, 2007 9:58 pm<br />Александр  <a href="viewtopic.php?p=2719#2719"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2592" class="topictitle">Заработать деньги в интернете!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Сергей C.</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">259</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Авг 06, 2007 2:35 pm<br />Сергей C.  <a href="viewtopic.php?p=2718#2718"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2591" class="topictitle">автомобили жестко открытые обществом</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">rododom</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">287</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Авг 04, 2007 10:30 am<br />rododom  <a href="viewtopic.php?p=2717#2717"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2588" class="topictitle">ПОМОГИТЕ!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Вовка!!!</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">353</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пт Июл 27, 2007 11:06 pm<br />Вовка!!!  <a href="viewtopic.php?p=2714#2714"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2585" class="topictitle">Mary Louise Parker's Nude Weeds Ad</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">maryparkerEX</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">275</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Июл 26, 2007 6:41 pm<br />maryparkerEX  <a href="viewtopic.php?p=2711#2711"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2584" class="topictitle">Bai Ling tits and pussy</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">BaiLingEX</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">276</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Июл 25, 2007 7:33 pm<br />BaiLingEX  <a href="viewtopic.php?p=2710#2710"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2583" class="topictitle">Как заработать МНОГО денег в интернете!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Гость</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">273</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вс Июл 22, 2007 10:03 pm<br />Гость  <a href="viewtopic.php?p=2709#2709"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2582" class="topictitle">автомобили быстро засекреченные детьми</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">popavoops</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">300</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вс Июл 22, 2007 2:36 am<br />popavoops  <a href="viewtopic.php?p=2708#2708"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2581" class="topictitle">писатели безоговорочно найденные совестью</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">vovapups</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">291</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Июл 19, 2007 6:23 am<br />vovapups  <a href="viewtopic.php?p=2707#2707"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2580" class="topictitle">Free *огого* Video Best Vol 2.0</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">davidcher</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">301</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вт Июл 03, 2007 5:15 pm<br />davidcher  <a href="viewtopic.php?p=2706#2706"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2578" class="topictitle">взрослые игры игры для взрослых</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">rwtrzytyty</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">313</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Июл 02, 2007 11:09 am<br />rwtrzytyty  <a href="viewtopic.php?p=2704#2704"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2528" class="topictitle">Кто-нибудь работал пейдсюрвеерем?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">sergeukolomovec</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">507</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Чт Июн 14, 2007 6:47 am<br />Гость  <a href="viewtopic.php?p=2684#2684"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2538" class="topictitle">Нашёл для поиска &quot;лекарств&quot; прогу</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Bizzarre</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">378</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Вт Май 22, 2007 5:25 am<br />Гость  <a href="viewtopic.php?p=2676#2676"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2552" class="topictitle">Крик о помощи! Срочно нужна любая работа</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">ladushkaivanova</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">406</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Май 19, 2007 1:45 am<br />sergbigmacho  <a href="viewtopic.php?p=2675#2675"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2523" class="topictitle">3 простых возможности рассылки по форумам.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Промоутерр</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">442</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Май 09, 2007 7:41 am<br />Гость  <a href="viewtopic.php?p=2666#2666"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2460" class="topictitle">Online-база кидал</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Гость</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">582</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Май 02, 2007 7:00 am<br />Гость  <a href="viewtopic.php?p=2661#2661"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2537" class="topictitle">Поздравляю всех с наступающими праздниками!!!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Swetochka</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">388</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Сб Апр 28, 2007 2:26 am<br />Swetochka  <a href="viewtopic.php?p=2655#2655"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2527" class="topictitle">Запрос на участников опросов.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">marinapotapova</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">414</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Апр 11, 2007 4:53 pm<br />marinapotapova  <a href="viewtopic.php?p=2645#2645"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2524" class="topictitle">Ловите ссылку пока я добрый</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">marinachiz</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">415</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Апр 11, 2007 4:02 pm<br />feddrdhh  <a href="viewtopic.php?p=2644#2644"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2514" class="topictitle">Кто-то  зарабатывает в интернет ?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">olgabrovkina</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">545</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Апр 11, 2007 3:09 pm<br />feddrdhh  <a href="viewtopic.php?p=2643#2643"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2521" class="topictitle">Сайтец по музычке, неплохо.</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">ГолдаМьюзик</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">374</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Апр 09, 2007 7:49 pm<br />ГолдаМьюзик  <a href="viewtopic.php?p=2635#2635"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2510" class="topictitle">заработай и потрать</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Эрика</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">401</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Пн Апр 02, 2007 1:04 am<br />Эрика  <a href="viewtopic.php?p=2624#2624"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2463" class="topictitle">Серебряная вода и её влияние на организм человека. Важно!!!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Аргенит</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">509</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Сен 13, 2006 4:15 pm<br />Аргенит  <a href="viewtopic.php?p=2572#2572"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1982" class="topictitle">Форум Левшей</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name">Гость</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">870</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ср Авг 30, 2006 8:00 pm<br />Гость  <a href="viewtopic.php?p=2508#2508"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="catBottom" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Показать темы:&nbsp;<select name="topicdays"><option value="0" selected="selected">все темы</option><option value="1">за последний день</option><option value="7">за последние 7 дней</option><option value="14">за последние 2 недели</option><option value="30">за последний месяц</option><option value="90">за последние 3 месяца</option><option value="180">за последние 6 месяцев</option><option value="364">за последний год</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Перейти" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=25"><img src="templates/subSilver/images/lang_russian/post.gif" border="0" alt="Начать новую тему" /></a></td>
+	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">Список форумов УРАЛЬСКАЯ СЛОБОДА</a> -> <a class="nav" href="viewforum.php?f=25">Р Е К Л А М А   З Д Е С Ь !!!</a></span></td>
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">Часовой пояс: GMT + 5</span><br /><span class="nav">На страницу <b>1</b>, <a href="viewforum.php?f=25&amp;topicdays=0&amp;start=50">2</a>&nbsp;&nbsp;<a href="viewforum.php?f=25&amp;topicdays=0&amp;start=50">След.</a></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="left" colspan="3"><span class="nav">Страница <b>1</b> из <b>2</b></span></td>
+	</tr>
+  </table>
+</form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Перейти:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Выберите форум</option><option value="-1">&nbsp;</option><option value="-1">ГЛАВНЫЕ ТЕМЫ</option><option value="-1">----------------</option><option value="25">Р Е К Л А М А   З Д Е С Ь !!!</option><option value="2">УРАЛЬСКАЯ СЛОБОДА</option><option value="3">РОДОВЫЕ ПОСЕЛЕНИЯ</option><option value="4">ЗЕМЕЛЬНЫЙ ВОПРОС</option><option value="7">ОБМЕН ОПЫТОМ</option><option value="17">УМНЫЙ ДОМ, УЛИЦА, ПОСЁЛОК</option><option value="18">РЕЛАКСАЦИЯ</option><option value="-1">&nbsp;</option><option value="-1">ПОСТРОИТЬ и ЖИТЬ!</option><option value="-1">----------------</option><option value="6">Свой почерк</option><option value="8">Антураж</option><option value="9">Строительные технологии</option><option value="19">Ландшафт</option><option value="20">О стилях не спорят</option><option value="24">Экология жилища</option><option value="-1">&nbsp;</option><option value="-1">СОБЫТИЯ</option><option value="-1">----------------</option><option value="5">Инвестиции</option><option value="10">Стратегия развития регионов</option><option value="21">Проблематика</option><option value="22">Капитал</option><option value="-1">&nbsp;</option><option value="-1">POST SCRIPTUM</option><option value="-1">----------------</option><option value="14">Здравница</option><option value="11">Тесты</option><option value="12">Имена</option><option value="13">Эксклюзив</option><option value="15">Интересное</option><option value="16">Изречения</option><option value="23">Семь"Я"</option></select><input type="hidden" name="sid" value="71bf55c40963a8be6217190ef124f0ca" />&nbsp;<input type="submit" value="Перейти" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/subSilver/images/folder_new.gif" alt="Новые сообщения" width="19" height="18" /></td>
+				<td class="gensmall">Новые сообщения</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder.gif" alt="Нет новых сообщений" width="19" height="18" /></td>
+				<td class="gensmall">Нет новых сообщений</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_announce.gif" alt="Объявление" width="19" height="18" /></td>
+				<td class="gensmall">Объявление</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_new_hot.gif" alt="Новые сообщения [ Популярная тема ]" width="19" height="18" /></td>
+				<td class="gensmall">Новые сообщения [ Популярная тема ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_hot.gif" alt="Нет новых сообщений [ Популярная тема ]" width="19" height="18" /></td>
+				<td class="gensmall">Нет новых сообщений [ Популярная тема ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_sticky.gif" alt="Прилепленная" width="19" height="18" /></td>
+				<td class="gensmall">Прилепленная</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/subSilver/images/folder_lock_new.gif" alt="Новые сообщения [ Тема закрыта ]" width="19" height="18" /></td>
+				<td class="gensmall">Новые сообщения [ Тема закрыта ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/subSilver/images/folder_lock.gif" alt="Нет новых сообщений [ Тема закрыта ]" width="19" height="18" /></td>
+				<td class="gensmall">Нет новых сообщений [ Тема закрыта ]</td>
+			</tr>
+		</table></td>
+		<td align="right"><span class="gensmall">Вы <b>не можете</b> начинать темы<br />Вы <b>не можете</b> отвечать на сообщения<br />Вы <b>не можете</b> редактировать свои сообщения<br />Вы <b>не можете</b> удалять свои сообщения<br />Вы <b>не можете</b> голосовать в опросах<br /></span></td>
+	</tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br /><a href='http://www.phpbbguru.net/'>Русская поддержка phpBB</a></span></div>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+

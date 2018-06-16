@@ -1,0 +1,328 @@
+
+
+
+<html>
+<head>
+<title>Уральская слобода - Земля</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<style type="text/css">
+<!--
+body {
+    background-image: url(pic/background.jpg);
+}
+-->
+</style></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<div id="Layer1" style="position:absolute; left:0; top:0; width:320px; height:84px; z-index:1"><img src="pic/about.jpg" width="1004" height="100"></div>
+<div id="Layer2" style="position:absolute; left:0px; top:100; width:152px; height:76px; z-index:2"><img src="pic/Buttons(a).jpg" width="166" height="395"></div>
+<div id="Layer3" style="position:absolute; left:166; top:100; width:20px; height:22px; z-index:3"><img src="pic/Buttons(b).jpg" width="77" height="159"></div>
+
+<div id="Layer4" style="position:absolute; left:84px; top:95px; width:158px; height:22px; z-index:4">
+  <div align="center"> <font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=1">Новости</a></font></div>
+</div>
+
+<div id="Layer4" style="position:absolute; left:56px; top:124px; width:158px; height:22px; z-index:4">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=2">Документы</a></font></div>
+</div>
+
+<div id="Layer5" style="position:absolute; left:36px; top:153px; width:158px; height:24px; z-index:5">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=3">Партнерство</a></font></div>
+</div>
+
+<div id="Layer6" style="position:absolute; left:23px; top:181px; width:158px; height:24px; z-index:6">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=4">Конкурс проектов</a></font></div>
+</div>
+
+<div id="Layer7" style="position:absolute; left:15px; top:211px; width:158px; height:26px; z-index:7">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=5">Ресурная часть</a> </font></div>
+</div>
+
+<div id="Layer8" style="position:absolute; left:10px; top:238px; width:158px; height:22px; z-index:8">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=6">Контакты</a></font></div>
+</div>
+
+<div id="Layer9" style="position:absolute; left:6px; top:266px; width:160px; height:21px; z-index:9">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=14">Авторы</a></font></div>
+</div>
+
+<div id="Layer10" style="position:absolute; left:7px; top:295px; width:158px; height:21px; z-index:10">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=8">СМИ</a></font></div>
+</div>
+
+<div id="Layer11" style="position:absolute; left:6px; top:324px; width:159px; height:22px; z-index:11">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=9">Фотографии</a></font></div>
+</div>
+
+<div id="Layer12" style="position:absolute; left:5px; top:352px; width:160px; height:21px; z-index:12">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=11">О
+    программе </a></font></div>
+</div>
+
+<div id="Layer13" style="position:absolute; left:7px; top:381px; width:158px; height:22px; z-index:13">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=12">Экология</a></font></div>
+</div>
+
+<div id="Layer14" style="position:absolute; left:6px; top:410px; width:159px; height:23px; z-index:14">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=13">Экономика</a></font></div>
+</div>
+
+<div id="Layer15" style="position:absolute; left:6px; top:440px; width:160px; height:21px; z-index:15">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/forum/" target="_blank">Форум</a></font></div>
+</div>
+
+<div id="Layer16" style="position:absolute; left:7px; top:467px; width:157px; height:23px; z-index:16">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/">На главную</a></font></div>
+</div>
+<div id="Layer17" style="position:absolute; left:221px; top:123px; width:771px; height:464px; z-index:17">
+  <div align="left">
+    <!--    <li>-->
+      <div align="justify"><div align="center"><a href="http://ural-sloboda.vidicor.ru/main.php?id_cat=10" target=_blank><img src=pic/ssylki/genplan.jpg width=701 height=98 border=0 alt="ИНТЕРАКТИВНАЯ КАРТА родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+ <!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<img src="http://d0.cd.bc.a1.top.mail.ru/counter'+'?id=1888311;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" alt="top.mail.ru" border="0">');
+if(11<js)d.write('<'+'!-- ')//--></script>
+<noscript><img src="http://d0.cd.bc.a1.top.mail.ru/counter?js=na;id=1888311" 
+height="1" width="1" alt="top.mail.ru" border="0"></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+<br>
+<H4><b><font face="FONT" size="4" color="cyan">© ВЫДЕРЖКИ ИЗ ПРОГРАММЫ ""УРАЛЬСКАЯ СЛОБОДА" -
+МАЛЫЙ ПОЛЮС УСТОЙЧИВОГО РАЗВИТИЯ"</font></H4></p>
+<H3><b><font face="FONT" size="3" color="yellow">«Цель программы - создание на Урале пионерного "умного" поселения с элементами устойчивого развития на перспективу. Данное поселение является <tr><td align=center><a href="http://ural-sloboda.vidicor.ru/pic/smi1/stroy7_98a.jpg" style="color: orange">социальным экспериментом</a></td></tr>, необходимым как этап отработки социальных технологий проектирования, строительства и функционирования малых населенных мест на Урале и России в целом. На сегодня все существующие и вновь строящиеся поселения организованы по принципу "спальных" районов, в которых отсутствует элементарная социальная инфраструктура, не говоря уже о наличии мест приложения труда поселенцев. К примеру, по Свердловской области это поселки Горный Щит, Малый исток, Широкая речка, Рассоха и т.д.</font></b><br><br>
+<b><font face="FONT" size="3" color="#FFCC00">Впервые в поселении "Уральская слобода" учитываются возможности <tr><td align=center><a href="http://ural-sloboda.vidicor.ru/pic/smi1/stroy9_98a.jpg" style="color: orange">разных социальных групп</a></td></tr> потенциальных жителей. Программа разработана с учетом того, что высоко обеспеченные жители поселения составят около 5%, среднеобеспеченные - около 70%, так называемые "муниципалы" составят около 25%. Все категории семей будут обеспечены земельными участками в зависимости от своих финансовых возможностей (от 5 до 50 соток).</font><br><br> 
+<b><font face="FONT" size="3" color="yellow">Вся инфраструктура поселения "Уральская слобода" связана между собой локальной информационно-вычислительной сетью, работающей по принципу местного Интернета. Локальная сеть позволит обеспечить функционирование каждого элемента инфраструктуры, а жителям поселения - комфортное проживание, внутреннюю и внешнюю связь. Благодаря данной системе, работающей в режиме реального времени, отпадает проблема несвоевременных коммунальных платежей, моментально отслеживаются неполадки в сетях и системах жизнеобеспечения поселения и многое другое.</font><br><br>
+<b><font face="FONT" size="3" color="#FFCC00">В "Уральской слободе" предусмотрены экономические "точки роста", такие как релаксационный центр, промзона, культурно-общественный центр досуга жителей (для всех категории), спортивно-туристический комплекс с гостиницей, горнолыжной трассой, конноспортивными маршрутами по живописной горноуральской местности, а также банк, учебный центр, детский досуговый центр и т.д. Инфраструктура поселения спроектирована таким образом, что у жителей появляется возможность работать по своим специальностям, не выезжая за пределы поселения.</font><br><br>
+<b><font face="FONT" size="3" color="yellow">Уникальность данного <tr><td align=center><a href="http://ural-sloboda.vidicor.ru/pic/smi1/pred1a.jpg" style="color: orange">экспериментального поселения</a></td></tr> в том, что оно расположено недалеко от города Екатеринбурга (30 км), центр поселения выше города Екатеринбурга на 178 метров, что позволяет принимать все телевизионные, информационные и связевые каналы уже сейчас (прямая видимость).<br> Поселок находится в чистейшей экологической зоне и в 1,5 км от федеральной трассы Серов-Екатеринбург. Полностью решена и согласована в избытке ресурсная часть проекта (вода, энергия, газ). До международного аэропорта Кольцово 60 минут езды на автомобиле.</font></H3></p>
+<H4><b><font face="FONT" size="4" color="#FFFFFF">«УРАЛЬСКАЯ СЛОБОДА» - БУДУЩЕЕ, КОТОРОЕ СТОИТ ОБРЕСТИ!</font></H4></p>
+<H3><b><font face="FONT" size="3" color="#FFCC00"> Планировочные решения (разработки ООО "МАТУР"):</font></H3></p>
+<a href="pic/fotogr/razrab/rosta.jpg" target="_blank"><img src="pic/fotogr/razrab/rost+.jpg" width="123" height="98" border="0" alt="Дом растущий РОДОВОЕ ГНЕЗДО (1993 год)"></a>
+<a href="pic/fotogr/razrab/rost2a.jpg" target="_blank"><img src="pic/fotogr/razrab/rost2+.jpg" width="123" height="98" border="0" alt="Жилые модули ОАЗИС и УЛИЦА (1993 год)"></a>
+<a href="pic/fotogr/razrab/rost3a.jpg" target="_blank"><img src="pic/fotogr/razrab/rost3+.jpg" width="123" height="98" border="0" alt="Полифункциональный общественный центр (1993 год)"></a>
+<a href="pic/fotogr/razrab/rost4a.jpg" target="_blank"><img src="pic/fotogr/razrab/rost4+.jpg" width="123" height="98" border="0" alt="Формирование общественных центров"></a></p>
+<H3><font face="FONT" size="3" color="cyan"> ПЛЮСЫ РОДОВОГО ПОСЕЛЕНИЯ "УРАЛЬСКАЯ СЛОБОДА"</font></br></H3></p> 
+<H3><b><font face="FONT" size="3" color="yellow"> 1. ИСКЛЮЧИТЕЛЬНАЯ ЭКОЛОГИЯ - Вы получаете возможность обновлять свой организм посредствам  незаметного воздействия на него целебного лесного воздуха, чистейшей воды и своих экологически чистых продуктов;<br>
+2. ОБОСОБЛЕННОСТЬ ПОСЕЛЕНИЯ - ограничивает возможность попадания посторонних людей на территорию поселения , что обеспечивает безопасность Вашему дому и семье;<br>
+<font face="FONT" size="3" color="#FFCC00"> 3. РАЗВИТАЯ ИНФРАСТРУКТУРА - позволяет Вашей семье получать блага цивилизации непосредственно на месте и по уровню выше, чем в Мегаполисе;<br>
+4. НАЛИЧИЕ "ТОЧЕК РОСТА" - избавляет Вас от ежедневного выезда в Мегаполис и позволяет на месте организовать рабочие места для жителей поселения;<br>
+<font face="FONT" size="3" color="yellow"> 5. АНТИСТРЕССОВАЯ РАЗГРУЗКА - Вы восстановите своё здоровье благодаря проживанию в своём доме, на своей земле, в гармонии с природой;<br>
+6. НЕЗАВИСИМОСТЬ ОТ СЛОЖИВШЕЙСЯ СИСТЕМЫ ЖКХ - достигнуто посредством устройства как индивидуальных систем жизнеобеспечения, так и производственной базы для жизнедеятельности поселения;<br>
+<font face="FONT" size="3" color="#FFCC00"> 7. БЛАГОПРИЯТНЫЙ СОЦИАЛЬНЫЙ КЛИМАТ - позволяет Вам влиться в общество людей с прогрессивным мировоззрением, независимым от коньюктуры социальной среды государства на дальнейшую перспективу;<br>
+8. ВОЗРОЖДЕНИЕ ГЕНОФОНДА РОССИИ, русской духовности, родового уклада жизни, традиций взаимовыручки и поддержки, формирование нового российского менталитета, создание отличного от существующего уровня жизни;<br>
+<font face="FONT" size="3" color="yellow"> 9. ВОСПРОИЗВОДСТВО ЧЕЛОВЕКА БУДУЩЕГО - обучение  Ваших  детей по уникальным программам с проведением мониторинга в процессе обучения от детсада до университета. </font></H3></p>
+<H4><b><font face="FONT" size="4" color="cyan">ВОСЕМЬ «ЕСЛИ»</font></H4></p>
+
+<H3><b><font face="FONT" size="3" color="#FFCC00">1. ЕСЛИ ВЫ - экологически грамотны и не собираетесь  вкладывать громадные средства в престижные квартиры в центре Мегаполиса, чтобы умереть на 10-15 лет раньше;<br>
+
+2. ЕСЛИ ВЫ - понимаете, что лучшее вложение средств - в свой генофонд - детей, внуков, правнуков, а не в таблетки и докторов;<br>
+
+3. ЕСЛИ ВЫ - устали быть рабом сложившейся системы ЖКХ и полностью зависеть от обстоятельств (когда нет энергии, тепла, воды, не работает лифт и т. д.);<br>
+
+<font face="FONT" size="3" color="yellow">4. ЕСЛИ ВЫ - располагаете свободными средствами или знаете, как их найти, а, разбираясь в экономике понимаете, что до 50% средств можно сэкономить, строя дом своими силами (с помощью семьи, друзей, фирмы);<br>
+
+5. ЕСЛИ ВЫ - знаете, что магистральные коммуникации города Екатеринбурга имеют износ на 70-75% и что их замена потребует громадных вложений, а главное времени (15-20 лет), и как следствие, вода в кранах будет с повторным загрязнением;<br>
+
+<font face="FONT" size="3" color="#FFCC00">6. ЕСЛИ ВЫ - понимаете, что в городе Екатеринбурге болезни жителей тесно связаны с районами проживания, а те, в свою очередь, с предприятиями, где подчас используются технологии начала прошлого века, замена которых потребует опять же громадных средств и времени (лет 20 и более);<br>
+
+7. ЕСЛИ ВЫ - знаете, что автомобильный парк города Екатеринбурга удваивается каждые 3-4 года, а дорожная сеть по пропускной способности «отстает» как минимум лет на 20-25 от потребностей ; -что развязки во втором и третьем уровнях не просматриваются на более далекую перспективу и, как следствие, дышать нам и нашим потомкам этим воздушным "коктейлем" еще очень и очень долго;<br>
+
+8. ЕСЛИ ВЫ - знаете, что ореол "дыхания" мегаполиса ощущается в радиусе 15-20 км и, как следствие, мы едим продукты от местных поставщиков с большими концентрациями вредных примесей, что частные поставщики с других регионов выращивают овощи вдоль магистралей для удобства уборки урожая и этим достигается тот же эффект.</font></H3></br> 
+
+<H4><b><div align="center"><font face="FONT" size="4" color="#FFFFFF">ЗНАЧИТ, ВЫ ГОТОВЫ СДЕЛАТЬ СВОЙ ВЫБОР -<br>
+ <font face="FONT" size="4" color="#FFFFFF">СВОЯ ЗЕМЛЯ,<br>
+                              СВОЙ ДОМ,<br>
+                                            СВОЙ РОД,<br>
+                                                          СВОЯ РОДИНА,<br>
+                                                                     СВОЕ РОДОВОЕ ПОСЕЛЕНИЕ<br>
+
+   " У Р А Л Ь С К А Я  С Л О Б О Д А " ! ! ! </H4></p>
+<a href="http://sloboda-ural.ucoz.ru" target=_blank><img src=pic/ssylki/su.jpg width=252 height=100 border=0 alt="ВСЁ ВИДЕО коттеджного поселка УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://ural-sloboda.ucoz.ru/index/proekt_uralskaja_sloboda_sopernikov_v_sopernikova_m_1998_god/0-9" target=_blank><img src=pic/ssylki/us.jpg width=252 height=100 border=0 alt="КОНЦЕПЦИЯ родового поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://sopernikov.narod.ru" target=_blank><img src=pic/ssylki/matur.jpg width=252 height=100 border=0 alt="ООО МАТУР-собственник земли,разработчик концепции и застройщик родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА (сайт в разработке)"></a></p>
+
+<!--Rating@Mail.ru logo-->
+<a target="_top" href="http://top.mail.ru/jump?from=1888311">
+<img src="http://d0.cd.bc.a1.top.mail.ru/counter?id=1888311;t=138;l=1" 
+border="0" height="40" width="88" alt="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru logo-->
+
+<!-- Начало кода счетчика UralWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/sloboda">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js='+
+uralweb_js+'&rand='+Math.random()+uralweb_a+
+'" width="88" height="31" alt="Рейтинг UralWeb" /><'+'/a>');
+//-->
+</script>
+
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/sloboda">
+<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js=0" width="88" height="31" alt="Рейтинг UralWeb" /></a>
+</noscript>
+<!-- конец кода счетчика UralWeb -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- начало Екатеринбургский рейтинг -->
+<a href="http://www.eb24.ru/top/?do=v&i=284" target="_blank" title="Рейтинг сайтов Екатеринбурга"><img src="http://www.eb24.ru/top/?do=in&id=284" border="0"></a>
+<!--  конец  Екатеринбургский рейтинг -->
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2471356"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2471356/">
+<img src="https://scounter.rambler.ru/top100.cnt?2471356" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Best-Stroy.ru counter code start -->
+<script type="text/javascript">
+var id = 39416; var type = 8; var rnd = Math.random(); var c  = '<a href="http://best-stroy.ru/" target="_blank">';
+c += '<img src="http://best-stroy.ru/counter.php?rnd=' + rnd + '&id=' + id + '&type=' + type + '&hidden=0"';
+c += ' width="88" height="31" border="0" alt="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ" /></a>';
+document.write(c);
+</script>
+<noscript>
+<a href="http://best-stroy.ru/" target="_blank"><img src="http://best-stroy.ru/counter.php?id=39416&type=8&hidden=0" width="88" height="31" border="0" alt="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ"></a>
+</noscript>
+<!-- Best-Stroy.ru counter code end -->
+
+<!-- autocheck by push2check.com -->
+<a href="http://push2check.com/ural-sloboda.vidicor.ru" target="_blank"  title="Push 2 Check">
+<img src="http://auto.push2check.com/p.php?d=ural-sloboda.vidicor.ru&w=88&h=31&bw=2&bg=FAFA57&f=269C26&b=228B22&png=1&pngi=1&psn=Ural%20Sloboda&plc=all" style="border-style: none" alt="Push 2 Check"/></a>
+<!-- autocheck by push2check.com -->
+
+
+</p>
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=5399785&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/5399785/2_0_FFEC20FF_FFCC00FF_0_pageviews"
+style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@zem.ru counter-->
+
+<a style="border:none;padding:0;margin:0;text-decoration:none;" href="http://top.zem.ru/"><img style="border:none;padding:0;margin:0;width:88px;height:31px;" src="http://top.zem.ru/counter.php?key=1bf0acd6e85dbdd23f237a4e465d7081" alt="Счётчик Зем.Ру" /></a>
+
+<!-- // Rating@zem.ru counter-->
+<script type="text/javascript"><!--
+document.write('<a href="http://click.kmindex.ru/?uid=84392" target=_top><img '+
+'src="http://counting.kmindex.ru/8.gif?uid=84392&r='+escape(document.referrer)+
+'&'+Math.random()+'" width=88 height=31 border=0 alt=KMindex></a>')
+//--></script>
+</p>
+<!--************CODE GEOGLOBE************-->
+<script type="text/javascript" src="http://geoloc7.geovisite.com/private/geoglobe.js?compte=188078604294"></script>
+<noscript>
+<a href="http://www.geovisites.com/zoom.php"  target="_blank"><img src="http://geoloc7.geovisite.com/private/geoglobe.php?compte=188078604294" border="0" alt="widget"></a>
+<br>Please do not change this code for a perfect fonctionality of your counter
+<a href="http://www.geovisite.com/">widget</a>
+</noscript>
+<!--************END CODE GEOGLOBE************-->
+</p>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://ural-sloboda.vidicor.ru" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://ural-sloboda.vidicor.ru" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+</a>
+<br>
+           
+      </div>
+<!--    </li>-->
+        <p>&nbsp;</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

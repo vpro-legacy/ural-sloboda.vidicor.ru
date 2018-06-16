@@ -1,0 +1,408 @@
+
+
+
+<html>
+<head>
+<title>Уральская слобода - Земля</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<style type="text/css">
+<!--
+body {
+    background-image: url(pic/background.jpg);
+}
+-->
+</style></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<div id="Layer1" style="position:absolute; left:0; top:0; width:320px; height:84px; z-index:1"><img src="pic/cmi.jpg" width="1004" height="100"></div>
+<div id="Layer2" style="position:absolute; left:0px; top:100; width:152px; height:76px; z-index:2"><img src="pic/Buttons(a).jpg" width="166" height="395"></div>
+<div id="Layer3" style="position:absolute; left:166; top:100; width:20px; height:22px; z-index:3"><img src="pic/Buttons(b).jpg" width="77" height="159"></div>
+
+<div id="Layer4" style="position:absolute; left:84px; top:95px; width:158px; height:22px; z-index:4">
+  <div align="center"> <font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=1">Новости</a></font></div>
+</div>
+
+<div id="Layer4" style="position:absolute; left:56px; top:124px; width:158px; height:22px; z-index:4">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=2">Документы</a></font></div>
+</div>
+
+<div id="Layer5" style="position:absolute; left:36px; top:153px; width:158px; height:24px; z-index:5">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=3">Партнерство</a></font></div>
+</div>
+
+<div id="Layer6" style="position:absolute; left:23px; top:181px; width:158px; height:24px; z-index:6">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=4">Конкурс проектов</a></font></div>
+</div>
+
+<div id="Layer7" style="position:absolute; left:15px; top:211px; width:158px; height:26px; z-index:7">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=5">Ресурная часть</a> </font></div>
+</div>
+
+<div id="Layer8" style="position:absolute; left:10px; top:238px; width:158px; height:22px; z-index:8">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=6">Контакты</a></font></div>
+</div>
+
+<div id="Layer9" style="position:absolute; left:6px; top:266px; width:160px; height:21px; z-index:9">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=14">Авторы</a></font></div>
+</div>
+
+<div id="Layer10" style="position:absolute; left:7px; top:295px; width:158px; height:21px; z-index:10">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=8">СМИ</a></font></div>
+</div>
+
+<div id="Layer11" style="position:absolute; left:6px; top:324px; width:159px; height:22px; z-index:11">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=9">Фотографии</a></font></div>
+</div>
+
+<div id="Layer12" style="position:absolute; left:5px; top:352px; width:160px; height:21px; z-index:12">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=11">О
+    программе </a></font></div>
+</div>
+
+<div id="Layer13" style="position:absolute; left:7px; top:381px; width:158px; height:22px; z-index:13">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=12">Экология</a></font></div>
+</div>
+
+<div id="Layer14" style="position:absolute; left:6px; top:410px; width:159px; height:23px; z-index:14">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=13">Экономика</a></font></div>
+</div>
+
+<div id="Layer15" style="position:absolute; left:6px; top:440px; width:160px; height:21px; z-index:15">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/forum/" target="_blank">Форум</a></font></div>
+</div>
+
+<div id="Layer16" style="position:absolute; left:7px; top:467px; width:157px; height:23px; z-index:16">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/">На главную</a></font></div>
+</div>
+<div id="Layer17" style="position:absolute; left:221px; top:123px; width:771px; height:464px; z-index:17">
+  <div align="left">
+    <!--    <li>-->
+      <div align="justify"><div align="center"><a href="http://ural-sloboda.vidicor.ru/main.php?id_cat=10" target=_blank><img src=pic/ssylki/genplan.jpg width=701 height=98 border=0 title="ИНТЕРАКТИВНАЯ КАРТА коттеджного поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 2010 года</font></b></h4></p>
+<a href='pic/pb2010/tehnokrat6_2010.jpg'target=_blank><img src='pic/pb2010/tehnokrat6_2010+.jpg' width="98" height="123" border="0"title="Статья ООО МАТУР в журнале ТЕХНОКРАТ  №1, Июнь, 2010 год"></a>
+<a href='pic/pb2010/tehno6_2010.jpg'target=_blank><img src='pic/pb2010/tehno6_2010+.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - КОМПЛЕКСНЫЙ ПОДХОД В МАЛОЭТАЖНОМ СТРОИТЕЛЬСТВЕ"></a>
+<a href='pic/pb2010/stroy_komp1-2_2010.jpg'target=_blank><img src='pic/pb2010/stroy_komp1-2_2010+.jpg' width="98" height="123" border="0"title="Статья в журнале СТРОЙКОМПЛЕКС СРЕДНЕГО УРАЛА  №1-2, Январь-Февраль 2010 год"></a>
+<a href='pic/pb2010/stroy1-2_2010.jpg'target=_blank><img src='pic/pb2010/stroy1-2_2010+.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА"></a></p>
+
+<a href='pic/sopernikov_arenda.jpg'target=_blank><img src='pic/arenda.jpg' width="123" height="98" border="0"title="Интервью с директором ООО МАТУР Владимиром Соперниковым "></a>
+<a href="http://b2b-rent.ru/interview/view/v-blizhajshie-10-let-vozvedenie-chastnyh-domov-narjadu-s-dorozhnym-stroitelstvom-stanet-lokomotivom-ekonomiki-rossii.htm" style="color: white">b2b-rent.ru</a>
+<a href='pic/poselki_justmedia_sopernikov.jpg'target=_blank><img src='pic/poselki_justmedia.jpg' width="123" height="98" border="0"title="Участие директора ООО МАТУР в брифинге по рейтингованию коттеджных поселков Свердловской области"></a>
+<a href="http://www.justmedia.ru/news/economy/2011/02/01/68091" style="color: white">justmedia.ru</a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 2007 года</font></h4></p>
+<a href='pic/ned.jpg'target=_blank><img src='pic/ned-m.jpg' width="98" height="123" border="0"title="Статья в журнале НЕДВИЖИМОСТЬ, Июль №29 (506), 23.07- 29.07.2007"></a> 
+<a href='pic/ned-1.jpg'target=_blank><img src='pic/ned-1.jpg' width="98" height="123" border="0"title="РОДОВОЕ ПОСЕЛЕНИЕ УРАЛЬСКАЯ СЛОБОДА. Коттеджные поселки"></a>
+<a href='pic/ned-2.jpg'target=_blank><img src='pic/ned-2.jpg' width="98" height="123" border="0"title="РОДОВОЕ ПОСЕЛЕНИЕ УРАЛЬСКАЯ СЛОБОДА"></a> 
+<a href='pic/blag/zagorod.jpg'target=_blank><img src='pic/blag/zagorod+.jpg' width="98" height="123" border="0"alt="в журнале ЗАГОРОДНЫЙ ДОМ. ЕКАТЕРИНБУРГ. Сентябрь-Октябрь, 2007: КОТТЕДЖНЫЕ ПОСЁЛКИ ЕКАТЕРИНБУРГА"></a>
+<a href='pic/blag/zag_dom.jpg'target=_blank><img src='pic/blag/zag_dom+.jpg' width="98" height="123" border="0"title="КОТТЕДЖНЫЕ ПОСЕЛКИ ЕКАТЕРИНБУРГА. Прайс цен на загородную недвижимость"></a></p>
+
+<a href='pic/kompas_2007.jpg'target=_blank><img src='pic/kompas_2007.jpg' width="98" height="98" border="0"title="Наша статья в альманахе КОМПАС БИЗНЕСМЕНА,  №17, зима, 2007 год"></a> 
+<a href='pic/kompas_07a.jpg'target=_blank><img src='pic/kompas_07a.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА- будущее, которое стоит обрести!"></a>
+<a href='pic/kompas_07b.jpg'target=_blank><img src='pic/kompas_07b.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА"></a> 
+<a href='pic/kompas_07c.jpg'target=_blank><img src='pic/kompas_07c.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА- будущее,которое стоит обрести!(продолжение)"></a>
+<a href='pic/kompas_07d.jpg'target=_blank><img src='pic/kompas_07d.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА (продолжение)"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наше участие в рейтинге коттеджных посёлков 2007 года</font></h4></p>
+<a href='pic/zag-d.jpg' target=_blank><img src='pic/zag-dm.jpg' width="98" height="123" border="0"alt="в журнале ЗАГОРОДНЫЙ ДОМ. ЕКАТЕРИНБУРГ. Июль-Август, 2007 год. КОТТЕДЖНЫЕ ПОСЕЛКИ ЕКАТЕРИНБУРГА"></a>
+<a href='pic/zag-d31.jpg' target=_blank><img src='pic/zag-d2m.jpg' width="72" height="54" border="0"title="Рейтинг коттеджных поселков Екатеринбурга по уровню развитости инфраструктуры"></a>
+<a href='pic/zag-d11.jpg' target=_blank><img src='pic/zag-d1m.jpg' width="72" height="54" border="0"title="Рейтинг коттеджных поселков Екатеринбурга по состоянию завершённости строительства"></a>
+<a href='pic/zag-d21.jpg' target=_blank><img src='pic/zag-d2m.jpg' width="72" height="54" border="0"title="Рейтинг коттеджных поселков Екатеринбурга по уровню системы безопасности"></a></p> 
+
+<a href='pic/top/obloj.jpg' target=_blank><img src='pic/top/obloj+.jpg' width="98" height="123" border="0"title="в журнале МОЯ НЕДВИЖИМОСТЬ. ДЕЛОВОЙ КВАРТАЛ. Июнь, 2007 год. КОТТЕДЖНЫЕ ПОСЁЛКИ CВЕРДЛОВСКОЙ ОБЛАСТИ"></a>
+<a href='pic/top/top.jpg' target=_blank><img src='pic/top/top+.jpg' width="72" height="54" border="0"title="Рейтинг котеджных посёлков Свердловской области по степени завершённости строительства"></a>
+<a href='pic/top/infra.jpg' target=_blank><img src='pic/top/infra+.jpg' width="72" height="54" border="0"title="Рейтинг котеджных поселков Свердловской области по степени развитости инфраструктуры"></a>
+<a href='pic/top/osnash.jpg' target=_blank><img src='pic/top/osnash+.jpg' width="72" height="54" border="0"title="Рейтинг коттеджных поселков Свердловской области по уровню оснащённости коттеджей"></a>
+<a href='pic/top/plotn.jpg' target=_blank><img src='pic/top/plotn+.jpg' width="72" height="54" border="0"title="Рейтинг котеджных поселков Свердловской области по плотности застройки"></a>
+
+<a href='pic/top/bezop.jpg' target=_blank><img src='pic/top/bezop+.jpg' width="72" height="54" border="0"title="Рейтинг коттеджных поселков по уровню системы безопасности"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Коттеджные посёлки Свердловской области 2006-2007 годов</font></h4></p>
+
+<a href='pic/variant/var.jpg' target=_blank><img src='pic/variant/var+.jpg' width="98" height="123" border="0"title="в журналах ВАШ ВАРИАНТ, Сентябрь 2006- Июль 2007 годов"></a>
+<a href='pic/variant/karta_var.jpg' target=_blank><img src='pic/variant/karta_var+.jpg' width="98" height="123" border="0"alt="Карта строящихся коттеджных посёлков"></a>
+<a href='pic/variant/tabl_var.jpg' target=_blank><img src='pic/variant/tabl_var+.jpg' width="123" height="98" border="0"alt="Характеристики коттеджных посёлков Cвердловской области"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Участие в конкурсах 2007 года</font></h4></p>
+<a href="http://www.inno.ru/project/24065" target=_blank><img src="pic/konkurs/3.jpg" width=51 height=72 border=0 title="Конкурс русских инноваций 2006-2007 годы"></a>  
+<a href="http://arch.rusdb.ru/" target=_blank><img src="pic/konkurs/1.jpg" width=54 height=72 border=0 title="Архитектурный конкурс РОССИЙСКИЙ ДОМ БУДУЩЕГО"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 2006 года</font></h4></p>
+<a href='pic/dec12_06/dec.jpg'target=_blank><img src='pic/dec12_06/dec+.jpg' width="98" height="123" border="0"title="Наша статья в журнале СТРОЙКОМПЛЕКС ПЛЮС, Декабрь, 2006 год"></a>
+ <a href='pic/dec12_06/dec_a.jpg'target=_blank><img src='pic/dec12_06/dec_a.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ ПОСЕЛЕНИЯ- БУДУЩЕЕ ИНДИВИДУАЛЬНОГО ДОМОСТРОЕНИЯ"></a>
+<a href='pic/dec12_06/dec_b.jpg'target=_blank><img src='pic/dec12_06/dec_b.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ ПОСЕЛЕНИЯ- БУДУЩЕЕ ИНДИВИДУАЛЬНОГО ДОМОСТРОЕНИЯ (продолжение)"></a>
+<a href='pic/dec12_06/dec_c.jpg'target=_blank><img src='pic/dec12_06/dec_c.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ ПОСЕЛЕНИЯ-БУДУЩЕЕ ИНДИВИДУАЛЬНОГО ДОМОСТРОЕНИЯ (окончание)"></a></p>
+
+  <a href='pic/noya/sk+10_06.jpg'target=_blank><img src='pic/noya/sk+.jpg' width="98" height="123" border="0"title="Наша статья в журнале СТРОЙКОМПЛЕКС ПЛЮС, Октябрь, 2006 год"></a>
+<a href='pic/noya/sk+10_06a.jpg'target=_blank><img src='pic/noya/sk+10_06a.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ РОДОВЫЕ ПОСЕЛЕНИЯ НА УРАЛЕ- ПРООБРАЗ НАЦИОНАЛЬНЫХ ПРОЕКТОВ РОССИИ"></a>
+<a href='pic/noya/sk+10_06b.jpg'target=_blank><img src='pic/noya/sk+10_06b.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ РОДОВЫЕ ПОСЕЛЕНИЯ НА УРАЛЕ- ПРООБРАЗ НАЦИОНАЛЬНЫХ ПРОЕКТОВ РОССИИ (продолжение)"></a>
+<a href='pic/noya/sk+10_06c.jpg'target=_blank><img src='pic/noya/sk+10_06c.jpg' width="98" height="123" border="0"title="УСТОЙЧИВЫЕ РОДОВЫЕ ПОСЕЛЕНИЯ НА УРАЛЕ- ПРООБРАЗ НАЦИОНАЛЬНЫХ ПРОЕКТОВ РОССИИ (окончание)"></a></p>
+
+<a href='pic/stroy2/stroy+04_06.jpg'target=_blank><img src='pic/stroy2/stroy+04_06m.jpg' width="98" height="123" border="0"title="Статья ООО МАТУР в журнале СТРОЙКОМПЛЕКС ПЛЮС, Апрель, 2006 год"></a>
+<a href='pic/stroy2/stroy+04_06a.jpg'target=_blank><img src='pic/stroy2/stroy+04_06a.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТАЛЬНЫЕ ПОДХОДЫ В СТРОИТЕЛЬСТВЕ"></a>
+<a href='pic/stroy2/stroy+04_06b.jpg'target=_blank><img src='pic/stroy2/stroy+04_06b.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТАЛЬНЫЕ ПОДХОДЫ В СТРОИТЕЛЬСТВЕ (продолжение)"></a>
+<a href='pic/stroy2/stroy+04_06c.jpg'target=_blank><img src='pic/stroy2/stroy+04_06c.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТАЛЬНЫЕ ПОДХОДЫ В СТРОИТЕЛЬСТВЕ (продолжение)"></a>
+ <a href='pic/stroy2/stroy+04_06d.jpg'target=_blank><img src='pic/stroy2/stroy+04_06d.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТАЛЬНЫЕ ПОДХОДЫ В СТРОИТЕЛЬСТВЕ (окончание)"></a></p> 
+ 
+<a href='pic/stroy/komp15_06.jpg'target=_blank><img src='pic/z/komp15_06z.jpg' width="98" height="98" border="0"title=" ООО МАТУР в альманахе КОМПАС БИЗНЕСМЕНА, №15, весна, 2006 год "></a> 
+<a href='pic/stroy/komp15_06a.jpg'target=_blank><img src='pic/stroy/komp15_06a.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href='pic/stroy/komp15_06b.jpg'target=_blank><img src='pic/stroy/komp15_06b.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА (продолжение)"></a>
+<a href='pic/stroy/komp15_06c.jpg'target=_blank><img src='pic/stroy/komp15_06c.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА (продолжение)"></a>
+<a href='pic/kompas_06.jpg'target=_blank><img src='pic/kompas_06.jpg' width="98" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА (окончание)"></a></p>  
+
+<a href='pic/stroy/krstol_06.jpg'target=_blank><img src='pic/z/krstol_06z.jpg' width="98" height="123" border="0"title="Наша статья в журнале СТРОЙКОМПЛЕКС ПЛЮС, Январь, 2006 год"></a>
+<a href='pic/stroy/krstol_a.jpg'target=_blank><img src='pic/stroy/krstol_a.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТ НА ГОРЕ ЧАЩЕВИТОЙ"></a>
+<a href='pic/stroy/krstol_b.jpg'target=_blank><img src='pic/stroy/krstol_b.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТ НА ГОРЕ ЧАЩЕВИТОЙ (продолжение)"></a>
+<a href='pic/stroy/krstol_c.jpg'target=_blank><img src='pic/stroy/krstol_c.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТ НА ГОРЕ ЧАЩЕВИТОЙ (продолжение)"></a>
+<a href='pic/stroy/krstol_d.jpg'target=_blank><img src='pic/stroy/krstol_d.jpg' width="98" height="123" border="0"title="ЭКСПЕРИМЕНТ НА ГОРЕ ЧАЩЕВИТОЙ (окончание)"></a></p>   
+
+<a href='pic/stroy/urstroy2_06.jpg'target=_blank><img src='pic/z/urstroy2_06z.jpg' width="98" height="123" border="0"title=" О нашем проекте в журнале НОВЫЙ УРАЛЬСКИЙ СТРОИТЕЛЬ, №2(59), 2006 год"></a>
+<a href='pic/stroy/urstroy2_06a.jpg'target=_blank><img src='pic/stroy/urstroy2_06a.jpg' width="98" height="123" border="0"title="СВОЙ ДОМ НА СВОЕЙ ЗЕМЛЕ"></a>
+<a href='pic/stroy/urstroy2_06b.jpg'target=_blank><img src='pic/stroy/urstroy2_06b.jpg' width="98" height="123" border="0"title="СВОЙ ДОМ НА СВОЕЙ ЗЕМЛЕ (про проект УРАЛЬСКАЯ СЛОБОДА)"></a>
+<a href='pic/stroy2/stroy04_06.jpg'target=_blank><img src='pic/stroy2/stroy04_06m.jpg' width="98" height="123" border="0"title="Реклама в журнале СТРОЙКОМПЛЕКС СРЕДНЕГО УРАЛА, Апрель, 2006 год"></a>
+<a href='pic/stroy2/stroy04_06a.jpg'target=_blank><img src='pic/stroy2/stroy04_06a.jpg' width="98" height="123" border="0"title="о семинаре ЭКСПЕРИМЕНТАЛЬНЫЕ ПОДХОДЫ В МАЛОЭТАЖНОМ СТРОИТЕЛЬСТВЕ на выставке ЛАНДШАФТНАЯ АРХИТЕКТУРА. ГОРОДСКАЯ СРЕДА. ЗАГОРОДНЫЙ ДОМ"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 2005 года</font></b></h4></p>
+<a href='pic/obl/stroy11_05.jpg'target=_blank><img src='pic/z/stroy11_05z.jpg' width="98" height="123" border="0"title="Статья ООО МАТУР в журнале СТРОЙКОМПЛЕКС ПЛЮС, Ноябрь, 2005 год"></a>
+<a href='pic/smi1/stroy11_05+.jpg'target=_blank><img src='pic/smi1/stroy11_05+.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА"></a> 
+<a href='pic/smi1/stroy11_05a.jpg'target=_blank><img src='pic/smi1/stroy11_05a.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - экспериментальное родовое поселение"></a>
+<a href='pic/obl/stroy11_05b.jpg'target=_blank><img src='pic/obl/stroy11_05b.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - экспериментальное родовое поселение (продолжение)"></a>
+<a href='pic/smi1/stroy11_05c.jpg'target=_blank><img src='pic/smi1/stroy11_05c.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - экспериментальное родовое поселение (продолжение)"></a>
+<a href='pic/obl/stroy11_05d.jpg'target=_blank><img src='pic/obl/stroy11_05d.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - экспериментальное родовое поселение (окончание)"></a></p>
+
+<a href='pic/obl/komp1.jpg'target=_blank><img src='pic/z/komp1z.jpg' width="98" height="98" border="0"title="в альманахе КОМПАС БИЗНЕСМЕНА, № 14, 2005 год "></a>
+<a href='pic/foto1/komp2.jpg'target=_blank><img src='pic/foto1/komp2.jpg' width="98" height="98" border="0"title="Проект самодостаточного поселка УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href='pic/foto1/komp2a.jpg'target=_blank><img src='pic/foto1/komp2a.jpg' width="98" height="98" border="0"title="Проект самодостаточного поселка УРАЛЬСКАЯ СЛОБОДА (окончание)"></a>
+
+ <a href='pic/obl/komp2.jpg'target=_blank><img src='pic/z/komp2-1z.jpg' width="123" height="98" border="0"title="в альманахе КОМПАС БИЗНЕСМЕНА, № 12, 2005 год "></a>
+<a href='pic/foto1/komp1.jpg'target=_blank><img src='pic/foto1/komp1.jpg' width="123" height="98" border="0"title="проект УРАЛЬСКАЯ СЛОБОДА - будущее, которое стоит обрести"></a> 
+<a href='pic/foto1/komp1a.jpg'target=_blank><img src='pic/foto1/komp1a.jpg' width="123" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА - будущее, которое стоит обрести"></a></p>
+
+<a href='pic/katalog_2005.jpg'target=_blank><img src='pic/katalog_2005.jpg' width="123" height="98" border="0"title="ООО МАТУР в официальном каталоге выставки ТОВАРЫ И УСЛУГИ - РАЗВИТИЮ БИЗНЕСА, Июнь, 2005 год "></a>
+<a href='pic/katalog_05.jpg'target=_blank><img src='pic/katalog_05+.jpg' width="123" height="98" border="0"title="Информация о фирме ООО МАТУР и социально-значимом проекте УРАЛЬСКАЯ СЛОБОДА"></a> 
+<a href='pic/oblast_gazeta.jpg'target=_blank><img src='pic/obl_gazeta.jpg' width="123" height="98" border="0"title="ОБЛАСТНАЯ ГАЗЕТА: Мечты, ставшие явью"></a> 
+<a href="http://www.oblgazeta.ru/home.htm?st=1.sat&dt=18.05.2005" style="color: white">oblgazeta.ru</a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 2004 года</font></h4></p>
+<a href='pic/obl/stroy3+_04.jpg'target=_blank><img src='pic/z/stroy3+_04z.jpg' width="98" height="123" border="0"title=" О нашем проекте УРАЛЬСКАЯ СЛОБОДА в журнале СТРОЙКОМПЛЕКС ПЛЮС, Март, 2004 год"></a>
+<a href='pic/smi1/stroy+3_04a.jpg'target=_blank><img src='pic/smi1/stroy+3_04a.jpg' width="98" height="123" border="0"title="Концепция и методика стратегического градостроительного планирования развития УрФО"></a> 
+<a href='pic/smi1/stroy+3_04b.jpg'target=_blank><img src='pic/smi1/stroy+3_04b.jpg' width="98" height="123" border="0"title="Концепция и методика стратегического градостроительного планирования развития УрФО (продолжение)"></a>
+<a href='pic/smi1/stroy+3_04c.jpg'target=_blank><img src='pic/smi1/stroy+3_04c.jpg' width="98" height="123" border="0"title="Концепция и методика стратегического градостроительного планирования развития УрФО - предложение о включении программы УРАЛЬСКАЯ СЛОБОДА,  раздел 7"></a>
+<a href='pic/smi1/stroy+3_04d.jpg'target=_blank><img src='pic/smi1/stroy+3_04d.jpg' width="98" height="123" border="0"title="Концепция и методика стратегического градостроительного планирования развития УрФО (продолжение)"></a>
+<a href='pic/smi1/stroy+3_04e.jpg'target=_blank><img src='pic/smi1/stroy+3_04e.jpg' width="98" height="123" border="0"title="Концепция и методика стратегического градостроительного планирования развития УрФО (схемы урбанизированного и природно-экологического каркасов)"></a></p> 
+
+<a href='pic/obl/urfo11-12_04.jpg'target=_blank><img src='pic/z/urfo11-12_04z.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА в журнале УРАЛЬСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ (УрФО), №11-12, 2004 год"></a>
+<a href='pic/smi1/urfo11-12_04a.jpg'target=_blank><img src='pic/smi1/urfo11-12_04a.jpg' width="98" height="123" border="0"title="ФОТО: руководители УрФО у стенда УРАЛЬСКАЯ СЛОБОДА на Первом Евро-Азиатском форуме"></a>
+<a href='pic/smi1/urfo11-12_04b.jpg'target=_blank><img src='pic/smi1/urfo11-12_04b.jpg' width="98" height="123" border="0"title="Статья: Нам по пути с техническим прогрессом"></a>
+<a href='pic/turch_2004.jpg'target=_blank><img src='pic/turch_2004.jpg' width="123" height="98" border="0"title="УРАЛЬСКАЯ СЛОБОДА в каталоге выставки РОССИЯ - СТРАНА ТЕРЕМОВ"></a>
+<a href='pic/turch_04.jpg'target=_blank><img src='pic/turch_04+.jpg' width="123" height="98" border="0"title="Информация о проекте УРАЛЬСКАЯ СЛОБОДА и авторе СОПЕРНИКОВЕ Владимире Евгеньевиче"></a></p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Наши публикации 1999 года</font></h4></p>
+<a href='pic/obl/stroy2_99.jpg'target=_blank><img src='pic/z/stroy2_99z.jpg' width="98" height="123" border="0"title="Статья в журнале СТРОЙКОМПЛЕКС СРЕДНЕГО УРАЛА, Февраль, 1999 год"></a>
+<a href='pic/smi1/stroy2_99a.jpg'target=_blank><img src='pic/smi1/stroy2_99a.jpg' width="98" height="123" border="0"title="Свердловская область в системе расселения Устойчивый урал"></a>
+<a href='pic/smi1/stroy2_99b.jpg'target=_blank><img src='pic/smi1/stroy2_99b.jpg' width="98" height="123" border="0"title="Свердловская область в системе расселения Устойчивый урал (продолжение)"></a>
+<a href='pic/smi1/stoy2_99c.jpg'target=_blank><img src='pic/smi1/stoy2_99c.jpg' width="98" height="123" border="0"title="Свердловская область в системе расселения Устойчивый урал- упоминание УРАЛЬСКОЙ СЛОБОДЫ в контексте развития малых устойчивых поселений в Уральском регионе"></a>
+  <a href='pic/smi1/stroy2_99d.jpg'target=_blank><img src='pic/smi1/stroy2_99d.jpg' width="98" height="123" border="0"title="Свердловская область в системе расселения Устойчивый урал (окончание)"></a></p> 
+
+<a href='pic/obl/pred1.jpg'target=_blank><img src='pic/z/pred1z.jpg' width="98" height="123" border="0"title="Наша статья в журнале ПРЕДПРИНИМАТЕЛЬ, №2, Январь, 1999 год"></a> 
+<a href='pic/smi1/pred1a.jpg'target=_blank><img src='pic/smi1/pred1a.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА - экспериментальное поселение ХХ1 века"></a>
+<a href='pic/obl/pred2.jpg'target=_blank><img src='pic/z/pred2z.jpg' width="98" height="123" border="0"title="Статья ООО МАТУР в журнале ПРЕДПРИНИМАТЕЛЬ, №3, Февраль, 1999 год"></a>
+<a href='pic/smi1/pred2a.jpg'target=_blank><img src='pic/smi1/pred2a.jpg' width="98" height="123" border="0"title="Продолжение статьи: УРАЛЬСКАЯ СЛОБОДА - экспериментальное поселение ХХ1 века"></a>
+<a href='pic/obl/kat99.jpg'target=_blank><img src='pic/z/kat99z.jpg' width="98" height="123" border="0"title="Информация в официальном каталоге выставки ТЫ И ТВОЙ ДОМ, Февраль, 1999 года"></a>
+<a href='pic/smi1/kat99a.jpg'target=_blank><img src='pic/smi1/kat99a.jpg' width="98" height="123" border="0"title="Участие проекта УРАЛЬСКАЯ СЛОБОДА в семинаре-конференции АГРОПРОМЫШЛЕННЫЕ ПОСЕЛЕНИЯ УСАДЕБНОГО ТИПА"></a>
+</p>
+
+<h4><b><div align="center"><font face="FONT" size="4" color="yellow">Публикации 1998 года</font></h4></p>
+<a href='pic/obl/stroy7_98.jpg'target=_blank><img src='pic/z/stroy7_98z.jpg' width="98" height="123" border="0"title="Статья ООО МАТУР в журнале СТРОЙКОМПЛЕКС СРЕДНЕГО УРАЛА, Июль, 1998 год"></a>
+<a href='pic/smi1/stroy7_98a.jpg'target=_blank><img src='pic/smi1/stroy7_98a.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА-малый полюс устойчивого развития"></a>
+ <a href='pic/smi1/stroy7_98b.jpg'target=_blank><img src='pic/smi1/stroy7_98b.jpg' width="98" height="123" border="0"title="Наш проект: УРАЛЬСКАЯ СЛОБОДА-малый полюс устойчивого развития (продолжение)"></a>
+<a href='pic/stroy7_98e.jpg'target=_blank><img src='pic/stroy7_98e+.jpg' width="98" height="123" border="0"title="УРАЛЬСКАЯ СЛОБОДА-малый полюс устойчивого развития (окончание и полемика)"></a></p>
+
+<a href='pic/obl/stroy9_98.jpg'target=_blank><img src='pic/z/stroy9_98z.jpg' width="98" height="123" border="0"title="Наша статья в журнале СТРОЙКОМПЛЕКС СРЕДНЕГО УРАЛА, Сентябрь-Октябрь, 1998 год"></a>
+<a href='pic/smi1/stroy9_98a.jpg'target=_blank><img src='pic/smi1/stroy9_98a.jpg' width="98" height="123" border="0"title="БУДУЩЕЕ НАЧИНАЕТСЯ СЕГОДНЯ"></a>
+<a href='pic/smi1/stroy9_98b.jpg'target=_blank><img src='pic/smi1/stroy9_98b.jpg' width="98" height="123" border="0"title="БУДУЩЕЕ НАЧИНАЕТСЯ СЕГОДНЯ (окончание статьи)"></a>  
+</p>
+
+<a href="http://sloboda-ural.ucoz.ru" target=_blank><img src=pic/ssylki/su.jpg width=252 height=100 border=0 title="ВИДЕО поселка УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://ural-sloboda.ucoz.ru/index/proekt_uralskaja_sloboda_sopernikov_v_sopernikova_m_1998_god/0-9" target=_blank><img src=pic/ssylki/us.jpg width=252 height=100 border=0 title="КОНЦЕПЦИЯ родового поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://sopernikov.narod.ru" target=_blank><img src=pic/ssylki/matur.jpg width=252 height=100 border=0 title="ООО МАТУР - собственник земли, разработчик концепции и застройщик родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА (сайт в разработке)"></a></p></p>
+
+
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<img src="http://d0.cd.bc.a1.top.mail.ru/counter'+'?id=1888311;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" title="top.mail.ru" border="0">');
+if(11<js)d.write('<'+'!-- ')//--></script>
+<noscript><img src="http://d0.cd.bc.a1.top.mail.ru/counter?js=na;id=1888311" 
+height="1" width="1" title="top.mail.ru" border="0"></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+<!--Rating@Mail.ru logo-->
+<a target="_top" href="http://top.mail.ru/jump?from=1888311">
+<img src="http://d0.cd.bc.a1.top.mail.ru/counter?id=1888311;t=138;l=1" 
+border="0" height="40" width="88" title="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru logo-->
+
+<!-- Начало кода счетчика UralWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/sloboda">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js='+
+uralweb_js+'&rand='+Math.random()+uralweb_a+
+'" width="88" height="31" title="Рейтинг UralWeb" /><'+'/a>');
+//-->
+</script>
+
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/sloboda">
+<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js=0" width="88" height="31" title="Рейтинг UralWeb" /></a>
+</noscript>
+<!-- конец кода счетчика UralWeb -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' title='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- начало Екатеринбургский рейтинг -->
+<a href="http://www.eb24.ru/top/?do=v&i=284" target="_blank" title="Рейтинг сайтов Екатеринбурга"><img src="http://www.eb24.ru/top/?do=in&id=284" border="0"></a>
+<!--  конец  Екатеринбургский рейтинг -->
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2471356"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2471356/">
+<img src="https://scounter.rambler.ru/top100.cnt?2471356" title="Rambler's Top100" border="0" />
+</a>
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Best-Stroy.ru counter code start -->
+<script type="text/javascript">
+var id = 39416; var type = 8; var rnd = Math.random(); var c  = '<a href="http://best-stroy.ru/" target="_blank">';
+c += '<img src="http://best-stroy.ru/counter.php?rnd=' + rnd + '&id=' + id + '&type=' + type + '&hidden=0"';
+c += ' width="88" height="31" border="0" title="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ" /></a>';
+document.write(c);
+</script>
+<noscript>
+<a href="http://best-stroy.ru/" target="_blank"><img src="http://best-stroy.ru/counter.php?id=39416&type=8&hidden=0" width="88" height="31" border="0" title="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ"></a>
+</noscript>
+<!-- Best-Stroy.ru counter code end -->
+
+<!-- autocheck by push2check.com -->
+<a href="http://push2check.com/ural-sloboda.vidicor.ru" target="_blank"  title="Push 2 Check">
+<img src="http://auto.push2check.com/p.php?d=ural-sloboda.vidicor.ru&w=88&h=31&bw=2&bg=FAFA57&f=269C26&b=228B22&png=1&pngi=1&psn=Ural%20Sloboda&plc=all" style="border-style: none" title="Push 2 Check"/></a>
+<!-- autocheck by push2check.com -->
+</p>
+<!--rosfirm.ru informer-->
+<a href="http://ekb.rosfirm.ru" target=_blank><img width="88" height="31" src="http://script.rosfirm.ru/counter.gif?company=66.88423" alt="Рейтинг РосФирм" title="Рейтинг компании на бизнес-портале РосФирм"></a>
+<!--end rosfirm.ru informer-->
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=5399785&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/5399785/2_0_FFEC20FF_FFCC00FF_0_pageviews"
+style="width:80px; height:31px; border:0;" title="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" title="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@zem.ru counter-->
+
+<a style="border:none;padding:0;margin:0;text-decoration:none;" href="http://top.zem.ru/"><img style="border:none;padding:0;margin:0;width:88px;height:31px;" src="http://top.zem.ru/counter.php?key=1bf0acd6e85dbdd23f237a4e465d7081" title="Счётчик Зем.Ру" /></a>
+
+<!-- // Rating@zem.ru counter-->
+<script type="text/javascript"><!--
+document.write('<a href="http://click.kmindex.ru/?uid=84392" target=_top><img '+
+'src="http://counting.kmindex.ru/8.gif?uid=84392&r='+escape(document.referrer)+
+'&'+Math.random()+'" width=88 height=31 border=0 title=KMindex></a>')
+//--></script>
+</p>
+<!--************CODE GEOGLOBE************-->
+<script type="text/javascript" src="http://geoloc7.geovisite.com/private/geoglobe.js?compte=188078604294"></script>
+<noscript>
+<a href="http://www.geovisites.com/zoom.php"  target="_blank"><img src="http://geoloc7.geovisite.com/private/geoglobe.php?compte=188078604294" border="0" title="widget"></a>
+<br>Please do not change this code for a perfect fonctionality of your counter
+<a href="http://www.geovisite.com/">widget</a>
+</noscript>
+<!--************END CODE GEOGLOBE************-->
+</p>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://ural-sloboda.vidicor.ru" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://ural-sloboda.vidicor.ru" style="border:0px;" title="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+</a>
+<br>
+           
+      </div>
+<!--    </li>-->
+        <p>&nbsp;</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

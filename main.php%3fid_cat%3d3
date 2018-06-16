@@ -1,0 +1,394 @@
+
+
+
+<html>
+<head>
+<title>Уральская слобода - Земля</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<style type="text/css">
+<!--
+body {
+    background-image: url(pic/background.jpg);
+}
+-->
+</style></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<div id="Layer1" style="position:absolute; left:0; top:0; width:320px; height:84px; z-index:1"><img src="pic/partner.jpg" width="1004" height="100"></div>
+<div id="Layer2" style="position:absolute; left:0px; top:100; width:152px; height:76px; z-index:2"><img src="pic/Buttons(a).jpg" width="166" height="395"></div>
+<div id="Layer3" style="position:absolute; left:166; top:100; width:20px; height:22px; z-index:3"><img src="pic/Buttons(b).jpg" width="77" height="159"></div>
+
+<div id="Layer4" style="position:absolute; left:84px; top:95px; width:158px; height:22px; z-index:4">
+  <div align="center"> <font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=1">Новости</a></font></div>
+</div>
+
+<div id="Layer4" style="position:absolute; left:56px; top:124px; width:158px; height:22px; z-index:4">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=2">Документы</a></font></div>
+</div>
+
+<div id="Layer5" style="position:absolute; left:36px; top:153px; width:158px; height:24px; z-index:5">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=3">Партнерство</a></font></div>
+</div>
+
+<div id="Layer6" style="position:absolute; left:23px; top:181px; width:158px; height:24px; z-index:6">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=4">Конкурс проектов</a></font></div>
+</div>
+
+<div id="Layer7" style="position:absolute; left:15px; top:211px; width:158px; height:26px; z-index:7">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=5">Ресурная часть</a> </font></div>
+</div>
+
+<div id="Layer8" style="position:absolute; left:10px; top:238px; width:158px; height:22px; z-index:8">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=6">Контакты</a></font></div>
+</div>
+
+<div id="Layer9" style="position:absolute; left:6px; top:266px; width:160px; height:21px; z-index:9">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=14">Авторы</a></font></div>
+</div>
+
+<div id="Layer10" style="position:absolute; left:7px; top:295px; width:158px; height:21px; z-index:10">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=8">СМИ</a></font></div>
+</div>
+
+<div id="Layer11" style="position:absolute; left:6px; top:324px; width:159px; height:22px; z-index:11">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=9">Фотографии</a></font></div>
+</div>
+
+<div id="Layer12" style="position:absolute; left:5px; top:352px; width:160px; height:21px; z-index:12">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=11">О
+    программе </a></font></div>
+</div>
+
+<div id="Layer13" style="position:absolute; left:7px; top:381px; width:158px; height:22px; z-index:13">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=12">Экология</a></font></div>
+</div>
+
+<div id="Layer14" style="position:absolute; left:6px; top:410px; width:159px; height:23px; z-index:14">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=13">Экономика</a></font></div>
+</div>
+
+<div id="Layer15" style="position:absolute; left:6px; top:440px; width:160px; height:21px; z-index:15">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/forum/" target="_blank">Форум</a></font></div>
+</div>
+
+<div id="Layer16" style="position:absolute; left:7px; top:467px; width:157px; height:23px; z-index:16">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/">На главную</a></font></div>
+</div>
+<div id="Layer17" style="position:absolute; left:221px; top:123px; width:771px; height:464px; z-index:17">
+  <div align="left">
+    <!--    <li>-->
+      <div align="justify"><h4><b><div align="center"><font face="FONT" size="4" color="yellow">ИНТЕРАКТИВНАЯ КАРТА ПЕРВОЙ ОЧЕРЕДИ СТРОИТЕЛЬСТВА ПОСЕЛКА "УРАЛЬСКАЯ СЛОБОДА" (наведите курсор на конкретный земельный участок и нажмите для подробного ознакомления)</font></b></h4>
+</p>
+<IMG SRC="http://ural-sloboda.vidicor.ru/pic/uralskaya_sloboda_1.JPG" width=800 height=618 border=0 alt="УРАЛЬСКАЯ СЛОБОДА. Первая очередь строительства" title="Первая очередь cтроительства МЖК "УРАЛЬСКАЯ СЛОБОДА"" USEMAP="#SystemMap">
+<MAP NAME="SystemMap">   
+    <AREA SHAPE="poly" COORDS="42,416,106,441,205,469,203,510,175,548,107,566,21,542,28,477,39,416" HREF="/pic/gen_pl/tehnopark.JPG" target="_blank" title="Технопарк">
+    <AREA SHAPE="poly" COORDS="203,510,175,548,107,566,21,542,22,587,84,612,215,612,217,513" HREF="/pic/gen_pl/tp.JPG" target="_blank" title="Озера доочистки сточных вод (3 контура)">        
+    <AREA SHAPE="poly" COORDS="540,196,490,224,472,185,471,165,497,154,519,177" HREF="/pic/gen_pl/dety.JPG" target="_blank" title="Детский досуговый центр">
+    <AREA SHAPE="poly" COORDS="646,482,640,567,729,567,740,512,708,504,672,494" HREF="/pic/gen_pl/torgovlya.JPG" target="_blank" title="Торгово-развлекательный центр">
+    <AREA SHAPE="poly" COORDS="610,459,642,479,636,569,615,569,591,483" HREF="/pic/gen_pl/biznes.JPG" target="_blank" title="Деловой центр (бизнес-инкубатор)">
+    <AREA SHAPE="poly" COORDS="243,461,261,442,285,431,280,473" HREF="/pic/gen_pl/pojarnaya.JPG" target="_blank" title="Пожарная часть, муниципальная полиция">
+    <AREA SHAPE="poly" COORDS="229,477,256,480,256,512,223,514" HREF="/pic/gen_pl/azs.JPG" target="_blank" title="Стоянка грузового транспорта, АЗС">
+    <AREA SHAPE="poly" COORDS="310,492,333,492,335,501,325,504,313,494" HREF="/pic/gen_pl/kpp2.JPG" target="_blank" title="Контрольно-пропускной пункт">
+    <AREA SHAPE="poly" COORDS="220,516,293,517,296,609,220,611" HREF="/pic/svet.JPG" target="_blank" title="Электроподстанция">
+    <AREA SHAPE="poly" COORDS="797,578,739,572,748,514,787,512,785,379,734,384,659,383,659,235,614,220,564,184,572,166,626,156,663,142,710,116,709,91,710,88,731,69,798,67" HREF="/pic/mjk2_3.JPG" target="_blank" title="Малоэтажный жилой комплекс УРАЛЬСКАЯ СЛОБОДА 2 и 3 очереди">
+    <AREA SHAPE="poly" COORDS="2,614,2,1,797,1,798,63,727,66,705,89,578,102,294,11,67,52,72,216,14,532,14,591,70,615" HREF="/pic/les1.JPG" target="_blank" title="Смешанный лес">
+    <AREA SHAPE="poly" COORDS="306,616,306,514,405,487,462,478,533,480,582,485,612,573,796,578,797,615" HREF="/pic/les2.JPG" target="_blank" title="Смешанный лес">
+    <AREA SHAPE="poly" COORDS="98,416,40,394,44,374,101,391" HREF="/pic/dom/uchastok_1.JPG" target="_blank" title="Участок №1. Площадь- 11 соток">
+    <AREA SHAPE="poly" COORDS="101,391,44,374,46,350,107,365" HREF="/pic/dom/uchastok_2.JPG" target="_blank" title="Участок №2. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="107,365,46,350,51,324,112,337" HREF="/pic/dom/uchastok_3.JPG" target="_blank" title="Участок №3. Площадь- 14 соток">
+    <AREA SHAPE="poly" COORDS="112,337,51,324,56,296,117,309" HREF="/pic/dom/uchastok_4.JPG" target="_blank" title="Участок №4. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="117,309,56,296,60,269,123,281" HREF="/pic/dom/uchastok_5.JPG" target="_blank" title="Участок №5. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="123,281,60,269,67,242,127,251" HREF="/pic/dom/uchastok_6.JPG" target="_blank" title="Участок №6. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="127,251,67,242,72,216,129,220" HREF="/pic/dom/uchastok_7.JPG" target="_blank" title="Участок №7. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="129,220,72,216,73,186,131,185" HREF="/pic/dom/uchastok_8.JPG" target="_blank" title="Участок №8. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="131,185,73,186,71,158,128,156" HREF="/pic/dom/uchastok_9.JPG" target="_blank" title="Участок №9. Площадь- 12,5 соток">
+    <AREA SHAPE="poly" COORDS="128,156,71,158,70,99,131,135" HREF="/pic/dom/uchastok_10.JPG" target="_blank" title="Участок №10. Площадь- 15 соток">
+    <AREA SHAPE="poly" COORDS="131,135,70,99,67,52,110,45,148,123" HREF="/pic/dom/uchastok_11.JPG" target="_blank" title="Участок №11. Площадь- 25 соток">
+    <AREA SHAPE="poly" COORDS="148,123,110,45,159,36,176,114" HREF="/pic/dom/uchastok_12.JPG" target="_blank" title="Участок №12. Площадь- 24,3 соток">
+    <AREA SHAPE="poly" COORDS="176,114,159,36,202,28,209,105" HREF="/pic/dom/uchastok_13.JPG" target="_blank" title="Участок №13. Площадь- 18 соток">
+    <AREA SHAPE="poly" COORDS="209,105,202,28,265,16,268,98" HREF="/pic/dom/uchastok_14.JPG" target="_blank" title="Участок №14. Площадь- 30 соток">
+    <AREA SHAPE="poly" COORDS="286,99,283,15,294,11,374,38,349,102,320,98" HREF="/pic/dom/uchastok_15.JPG" target="_blank" title="Участок №15. Площадь- 29 соток">
+    <AREA SHAPE="poly" COORDS="349,102,374,38,439,57,397,125" HREF="/pic/dom/uchastok_16.JPG" target="_blank" title="Участок №16. Площадь- 28,3 соток">
+    <AREA SHAPE="poly" COORDS="397,125,415,94,467,137,460,151,460,165,452,172" HREF="/pic/dom/uchastok_17.JPG" target="_blank" title="Участок №17. Площадь- 16,5 соток">
+    <AREA SHAPE="poly" COORDS="467,137,415,94,439,57,481,71,487,133,472,133" HREF="/pic/dom/uchastok_18.JPG" target="_blank" title="Участок №18. Площадь- 24 сотки">
+    <AREA SHAPE="poly" COORDS="487,133,481,71,542,90,525,143" HREF="/pic/dom/uchastok_19.JPG" target="_blank" title="Участок №19. Площадь- 17 соток">
+    <AREA SHAPE="poly" COORDS="525,143,542,90,578,102,577,146" HREF="/pic/dom/uchastok_20.JPG" target="_blank" title="Участок №20. Площадь- 13,7 соток">
+    <AREA SHAPE="poly" COORDS="577,146,578,102,704,93,662,121,625,137,593,145" HREF="/pic/dom/uchastok_21.JPG" target="_blank" title="Участок №21. Площадь- 17,5 соток">
+    <AREA SHAPE="poly" COORDS="489,230,545,200,568,222,502,257" HREF="/pic/dom/uchastok_23.JPG" target="_blank" title="Участок №23. Площадь- 14,6 соток">    
+    <AREA SHAPE="poly" COORDS="573,226,589,236,558,275,541,245" HREF="/pic/dom/uchastok_24.JPG" target="_blank" title="Участок №24. Площадь- 7 соток">
+    <AREA SHAPE="poly" COORDS="589,236,558,275,568,297,586,305,610,246" HREF="/pic/dom/uchastok_25.JPG" target="_blank" title="Участок №25. Площадь- 14 соток">
+    <AREA SHAPE="poly" COORDS="617,249,637,255,623,316,594,309" HREF="/pic/dom/uchastok_26.JPG" target="_blank" title="Участок №26. Площадь- 11,5 соток">
+    <AREA SHAPE="poly"COORDS="637,255,623,316,654,318,655,258"  HREF="/pic/dom/uchastok_27.JPG" target="_blank" title="Участок №27. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="653,322,653,386,626,385,633,321" HREF="/pic/dom/uchastok_28.JPG" target="_blank" title="Участок №28. Площадь- 11,5 соток">
+    <AREA SHAPE="poly" COORDS="633,321,626,385,598,379,613,317" HREF="/pic/dom/uchastok_29.JPG" target="_blank" title="Участок №29. Площадь- 11,7 соток">
+    <AREA SHAPE="poly" COORDS="613,317,598,379,570,373,594,310" HREF="/pic/dom/uchastok_30.JPG" target="_blank" title="Участок №30. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="586,305,561,368,543,355,532,336,568,297" HREF="/pic/dom/uchastok_31.JPG" target="_blank" title="Участок №31. Площадь- 15,4 соток">
+    <AREA SHAPE="poly" COORDS="568,297,532,336,516,299,558,275" HREF="/pic/dom/uchastok_32.JPG" target="_blank" title="Участок №32. Площадь- 12,5 соток">            
+    <AREA SHAPE="poly" COORDS="558,275,516,299,504,267,541,245" HREF="/pic/dom/uchastok_33.JPG" target="_blank" title="Участок №33. Площадь- 11,2 соток">
+    <AREA SHAPE="poly" COORDS="485,269,437,294,424,269,471,240" HREF="/pic/dom/uchastok_34.JPG" target="_blank" title="Участок №34. Площадь- 10,6 соток">
+    <AREA SHAPE="poly" COORDS="471,240,424,269,413,246,457,215" HREF="/pic/dom/uchastok_35.JPG" target="_blank" title="Участок №35. Площадь- 10,8 соток">
+    <AREA SHAPE="poly" COORDS="457,215,413,246,397,225,437,186" HREF="/pic/dom/uchastok_36.JPG" target="_blank" title="Участок №36. Площадь- 13,5 соток">
+    <AREA SHAPE="poly" COORDS="437,186,397,225,377,203,409,159" HREF="/pic/dom/uchastok_37.JPG" target="_blank" title="Участок №37. Площадь- 13,5 соток">
+    <AREA SHAPE="poly" COORDS="409,159,377,203,350,192,373,133" HREF="/pic/dom/uchastok_38.JPG" target="_blank" title="Участок №38. Площадь- 14,5 соток">
+    <AREA SHAPE="poly" COORDS="373,133,359,167,326,157,330,119" HREF="/pic/dom/uchastok_39.JPG" target="_blank" title="Участок №39. Площадь- 12,3 соток">
+    <AREA SHAPE="poly" COORDS="330,119,326,157,288,116,294,157" HREF="/pic/dom/uchastok_40.JPG" target="_blank" title="Участок №40. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="294,157,326,157,359,167,345,201,296,195" HREF="/pic/dom/uchastok_41.JPG" target="_blank" title="Участок №41. Площадь- 18 соток">
+    <AREA SHAPE="poly" COORDS="296,195,345,201,327,247,294,235" HREF="/pic/dom/uchastok_42.JPG" target="_blank" title="Участок №42. Площадь- 13 соок">            
+    <AREA SHAPE="poly" COORDS="329,247,351,195,374,208,396,226,354,266" HREF="/pic/dom/uchastok_43.JPG" target="_blank" title="Участок №43. Площадь- 20 соток">
+    <AREA SHAPE="poly" COORDS="354,266,396,226,418,261,375,293" HREF="/pic/dom/uchastok_44.JPG" target="_blank" title="Участок №44. Площадь- 15,2 соток">
+    <AREA SHAPE="poly" COORDS="375,293,418,261,433,294,392,318" HREF="/pic/dom/uchastok_45.JPG" target="_blank" title="Участок №45. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="276,231,215,235,214,197,274,193" HREF="/pic/dom/uchastok_46.JPG" target="_blank" title="Участок №46. Площадь- 16 соток">
+    <AREA SHAPE="poly" COORDS="274,193,214,197,212,158,273,153" HREF="/pic/dom/uchastok_47.JPG" target="_blank" title="Участок №47. Площадь- 17,5 соток">
+    <AREA SHAPE="poly" COORDS="273,153,212,158,210,125,269,118" HREF="/pic/dom/uchastok_48.JPG" target="_blank" title="Участок №48. Площадь- 15,6 соток">
+    <AREA SHAPE="poly" COORDS="210,125,212,158,152,168,149,150,157,141,210,125" HREF="/pic/dom/uchastok_49.JPG" target="_blank" title="Участок №49. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="152,168,212,158,214,197,153,203" HREF="/pic/dom/uchastok_50.JPG" target="_blank" title="Участок №50. Площадь- 16 соток">
+    <AREA SHAPE="poly" COORDS="153,203,214,197,215,235,150,240" HREF="/pic/dom/uchastok_51.JPG" target="_blank" title="Участок №51. Площадь- 17,3 соток">
+    <AREA SHAPE="poly" COORDS="147,260,177,256,177,301,143,300" HREF="/pic/dom/uchastok_52.JPG" target="_blank" title="Участок №52. Площадь- 11,4 соток">            
+    <AREA SHAPE="poly" COORDS="177,256,177,301,241,301,240,252" HREF="/pic/dom/uchastok_53.JPG" target="_blank" title="Участок №53. Площадь- 22 сотки">
+    <AREA SHAPE="poly" COORDS="240,252,241,301,276,300,276,253" HREF="/pic/dom/uchastok_54.JPG" target="_blank" title="Участок №54. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="276,300,276,336,228,337,226,304" HREF="/pic/dom/uchastok_55.JPG" target="_blank" title="Участок №55. Площадь- 12,6 соток">
+    <AREA SHAPE="poly" COORDS="226,304,223,337,179,337,178,302" HREF="/pic/dom/uchastok_56.JPG" target="_blank" title="Участок №56. Площадь- 13,5 соток">
+    <AREA SHAPE="poly" COORDS="178,302,179,337,135,339,140,302" HREF="/pic/dom/uchastok_57.JPG" target="_blank" title="Участок №57. Площадь- 11 соток">
+    <AREA SHAPE="poly" COORDS="129,360,170,358,171,399,123,386" HREF="/pic/dom/uchastok_58.JPG" target="_blank" title="Участок №58. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="170,358,206,357,207,410,171,399" HREF="/pic/dom/uchastok_59.JPG" target="_blank" title="Участок №59. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="206,357,239,357,242,399,217,414" HREF="/pic/dom/uchastok_60.JPG" target="_blank" title="Участок №60. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="239,357,275,357,278,380,242,399" HREF="/pic/dom/uchastok_61.JPG" target="_blank" title="Участок №61. Площадь- 9 соток">
+    <AREA SHAPE="poly" COORDS="278,380,285,413,263,421,246,430,232,408" HREF="/pic/dom/uchastok_62.JPG" target="_blank" title="Участок №62. Площадь- 10 соток">            
+    <AREA SHAPE="poly" COORDS="232,408,246,430,224,454,182,444,191,408,216,417" HREF="/pic/dom/uchastok_63.JPG" target="_blank" title="Участок №63. Площадь- 18 соток">
+    <AREA SHAPE="poly" COORDS="191,408,182,444,147,435,157,399" HREF="/pic/dom/uchastok_64.JPG" target="_blank" title="Участок №64. Площадь- 11,5 соток">
+    <AREA SHAPE="poly" COORDS="157,399,147,435,115,423,122,388" HREF="/pic/dom/uchastok_65.JPG" target="_blank" title="Участок №65. Площадь- 11 соток">
+    <AREA SHAPE="poly" COORDS="301,408,323,405,344,403,322,364,294,378" HREF="/pic/dom/uchastok_66.JPG" target="_blank" title="Участок №66. Площадь- 10 соток">
+    <AREA SHAPE="poly" COORDS="344,403,322,364,347,349,379,398" HREF="/pic/dom/uchastok_67.JPG" target="_blank" title="Участок №67. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="347,349,381,399,411,390,374,333" HREF="/pic/dom/uchastok_68.JPG" target="_blank" title="Участок №68. Площадь- 14,5 соток">
+    <AREA SHAPE="poly" COORDS="370,327,334,346,323,327,356,305" HREF="/pic/dom/uchastok_69.JPG" target="_blank" title="Участок №69. Площадь- 8 соток">
+    <AREA SHAPE="poly" COORDS="356,305,323,327,312,307,337,280" HREF="/pic/dom/uchastok_70.JPG" target="_blank" title="Участок №70. Площадь- 7 соток">
+    <AREA SHAPE="poly" COORDS="337,280,312,307,295,306,294,259,318,266" HREF="/pic/dom/uchastok_71.JPG" target="_blank" title="Участок №71. Площадь- 10 соток">
+    <AREA SHAPE="poly" COORDS="295,306,312,307,334,346,294,370" HREF="/pic/dom/uchastok_72.JPG" target="_blank" title="Участок №72. Площадь- 12 соток">            
+    <AREA SHAPE="poly" COORDS="395,324,416,358,456,337,440,302" HREF="/pic/dom/uchastok_73.JPG" target="_blank" title="Участок №73. Площадь- 14 соток">
+    <AREA SHAPE="poly" COORDS="440,302,487,275,497,303,453,323" HREF="/pic/dom/uchastok_74.JPG" target="_blank" title="Участок №74. Площадь- 10 соток">
+    <AREA SHAPE="poly" COORDS="453,323,497,303,507,333,467,353" HREF="/pic/dom/uchastok_75.JPG" target="_blank" title="Участок №75. Площадь- 10,6 соток">
+    <AREA SHAPE="poly" COORDS="467,353,507,333,521,356,531,368,530,373,476,375" HREF="/pic/dom/uchastok_76.JPG" target="_blank" title="Участок №76. Площадь- 11 соток">
+    <AREA SHAPE="poly" COORDS="476,375,431,384,416,358,456,337" HREF="/pic/dom/uchastok_77.JPG" target="_blank" title="Участок №77. Площадь- 12,2 соток">
+    <AREA SHAPE="poly" COORDS="301,455,304,426,323,420,349,421,354,454" HREF="/pic/dom/uchastok_78.JPG" target="_blank" title="Участок №78. Площадь- 12,5 соток">
+    <AREA SHAPE="poly" COORDS="301,455,354,454,359,496,338,500,336,488,310,488,297,478" HREF="/pic/dom/uchastok_79.JPG" target="_blank" title="Участок №79. Площадь- 14 соток">
+    <AREA SHAPE="poly" COORDS="349,422,380,421,394,484,361,494" HREF="/pic/dom/uchastok_80.JPG" target="_blank" title="Участок №80. Площадь- 16 соток">
+    <AREA SHAPE="poly" COORDS="380,421,394,484,425,478,407,412" HREF="/pic/dom/uchastok_81.JPG" target="_blank" title="Участок №81. Площадь- 15 соток">
+    <AREA SHAPE="poly" COORDS="407,412,425,478,462,473,445,402,432,404" HREF="/pic/dom/uchastok_82.JPG" target="_blank" title="Участок №82. Площадь- 18 соток">            
+    <AREA SHAPE="poly" COORDS="445,402,462,473,496,474,476,397" HREF="/pic/dom/uchastok_83.JPG" target="_blank" title="Участок №83. Площадь- 17 соток">
+    <AREA SHAPE="poly" COORDS="476,397,493,454,523,435,508,393" HREF="/pic/dom/uchastok_84.JPG" target="_blank" title="Участок №84. Площадь- 12,8 соток">
+    <AREA SHAPE="poly" COORDS="508,393,540,393,554,399,565,409,523,435" HREF="/pic/dom/uchastok_85.JPG" target="_blank" title="Участок №85. Площадь- 10 соток">
+    <AREA SHAPE="poly" COORDS="565,409,492,454,496,474,528,474,581,432" HREF="/pic/dom/uchastok_86.JPG" target="_blank" title="Участок №86. Площадь- 18 соток">
+    <AREA SHAPE="poly" COORDS="581,432,528,474,587,478,607,452" HREF="/pic/dom/uchastok_87.JPG" target="_blank" title="Участок №87. Площадь- 13 соток">
+    <AREA SHAPE="poly" COORDS="624,438,645,405,585,395,580,399,606,425" HREF="/pic/dom/uchastok_88.JPG" target="_blank" title="Участок №88. Площадь- 10 соток">
+    <AREA SHAPE="poly" COORDS="645,405,637,420,637,433,679,409" HREF="/pic/dom/uchastok_89.JPG" target="_blank" title="Участок №89. Площадь- 7 соток">
+    <AREA SHAPE="poly" COORDS="679,409,673,433,708,446,714,410" HREF="/pic/dom/uchastok_90.JPG" target="_blank" title="Участок №90. Площадь- 9 соток">
+    <AREA SHAPE="poly" COORDS="720,409,716,447,750,448,752,405" HREF="/pic/dom/uchastok_91.JPG" target="_blank" title="Участок №91. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="752,405,750,448,783,447,784,401" HREF="/pic/dom/uchastok_92.JPG" target="_blank" title="Участок №92. Площадь- 12 соток">            
+    <AREA SHAPE="poly" COORDS="783,447,784,493,749,491,750,448" HREF="/pic/dom/uchastok_93.JPG" target="_blank" title="Участок №93. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="750,448,749,491,711,483,716,447" HREF="/pic/dom/uchastok_94.JPG" target="_blank" title="Участок №94. Площадь- 12 соток">
+    <AREA SHAPE="poly" COORDS="708,446,704,479,664,465,673,433" HREF="/pic/dom/uchastok_95.JPG" target="_blank" title="Участок №95. Площадь- 12,6 соток">
+    <AREA SHAPE="poly" COORDS="673,433,664,465,625,438,637,420" HREF="/pic/dom/uchastok_96.JPG" target="_blank" title="Участок №96. Площадь- 8 соток">  
+</MAP>
+</p>
+<h4><b><div align=center><font face="FONT" size="4" color="cyan">Приглашаем к партнёрству частных и корпоративных инвесторов для строительства и дальнейшей эксплуатации объектов технопарка и инфраструктуры (горнолыжный комплекс, релаксационный центр, спортивно-туристический комплекс, филиал банка, торгово-развлекательный центр, школа, гостиница, "зелёные" офисы и др.), а также застройщиков индивидуального жилья (см.<font face=FONT size="3" color="#0000FF"><a href="main.php?id_cat=10">"ИНТЕРАКТИВНЫЙ МАКЕТ ПОСЕЛКА"</a></font>).</font></div></h4></p>
+<div align="center"><IMG SRC="http://ural-sloboda.vidicor.ru/pic/partners.JPG" width=800 height=618 border=0 alt="УЧАСТКИ ДЛЯ ИНВЕСТИРОВАНИЯ" title="УЧАСТКИ ДЛЯ ИНВЕСТИРОВАНИЯ в первой очереди строительства" </div></p>
+<h4><b><div align="center"><font face="FONT" size="4" color="#FFFFFF">ИНТЕРЕСЫ ИНВЕСТОРОВ</font></h4></p>
+<h3><b><u><font face="FONT" size="3" color="yellow">ЧАСТНЫЙ ИНВЕСТОР:</u><br>
+1) любая семья или частное лицо, способные профинансировать только своё "родовое гнездо" (дом с участком) решив, таким образом, свою жилищную проблему;<br>
+2) семья или частное лицо, способные профинансировать кроме своего "родового гнезда" другие жилые объекты и принять долевое участие в инфраструктуре, перенести свой бизнес в на территорию "Уральской слободы" с целью получения прибыли;</p>
+<u>ГОСУДАРСТВЕННЫЙ ИНВЕСТОР:</u><br>
+1) интерес в отработке или апробации модели устойчивого муниципального образования на базе поселения "Уральская слобода";<br>
+2) решение жилищных проблем социально не защищённых слоёв населения, студентов, врачей, учителей, переселенцев, военнослужащих уволенных в запас путём финансирования и предоставления жилья в террасных или других домах  поселения "Уральская слобода";</font><br></p>
+<u><font face="FONT" size="3" color="orange">КОРПОРАТИВНЫЙ ИНВЕСТОР:</u><br>
+1) фирмы, банковские структуры, инвестиционно-строительные структуры и др., имеющие заинтересованность в строительстве жилья для себя, своих сотрудников, организации "зелёных" офисов предприятий и представительств, а также для получения прибыли;<br>
+2) долевое участие в реализации социальных или коммерческих программ поселения с целью создания рабочих мест и получения прибыли;<br>
+3) долевое участие в развитии программ технопарка с целью перенесения части бизнеса в "Уральскую слободу" и получения прибыли;<br>
+4) организация уникальных мини производств в различных сферах деятельности (на территории поселения минимальная электромагнитная возмущённость, минимальные тектоника и шум, исключительная экология, воздух, вода и т.д.);</font></p>
+<u><font face="FONT" size="3" color="#FFCC00">МЕГА ИНВЕСТОР:</u><br>
+1) вложения с целью получения прибыли от реализации жилья или его аренды;<br>
+2) вложения с целью получения прибыли от реализации инфраструктуры, доли участия, аренды;<br>
+3) вложения с целью получения прибыли от функционирования поселения;<br>
+4) любой другой спектр интересов ( политика, наука, проведение международных выставок, семинаров, форумов, включая интернет и т.д.).</font></b></h3></p>
+</p>
+<a href="http://sloboda-ural.ucoz.ru" target=_blank><img src=pic/ssylki/su.jpg width=252 height=100 border=0 alt=" ВИДЕО поселка УРАЛЬСКАЯ СЛОБОДА" title="ВСЁ ВИДЕО коттеджного поселка УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://ural-sloboda.ucoz.ru/index/proekt_uralskaja_sloboda_sopernikov_v_sopernikova_m_1998_god/0-9" target=_blank><img src=pic/ssylki/us.jpg width=252 height=100 border=0 alt="КОНЦЕПЦИЯ поселения УРАЛЬСКАЯ СЛОБОДА" title="КОНЦЕПЦИЯ родового поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://sopernikov.narod.ru" target=_blank><img src=pic/ssylki/matur.jpg width=252 height=100 border=0 alt="ООО МАТУР (сайт в разработке)" title="ООО МАТУР-собственник земли, разработчик концепции и застройщик поселения УРАЛЬСКАЯ СЛОБОДА (сайт в разработке)"></a>
+</p>
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<img src="http://d0.cd.bc.a1.top.mail.ru/counter'+'?id=1888311;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" title="top.mail.ru" border="0">');
+if(11<js)d.write('<'+'!-- ')//--></script>
+<noscript><img src="http://d0.cd.bc.a1.top.mail.ru/counter?js=na;id=1888311" 
+height="1" width="1" title="top.mail.ru" border="0"></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+<!--Rating@Mail.ru logo-->
+<a target="_top" href="http://top.mail.ru/jump?from=1888311">
+<img src="http://d0.cd.bc.a1.top.mail.ru/counter?id=1888311;t=138;l=1" 
+border="0" height="40" width="88" title="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru logo-->
+<!-- Начало кода счетчика UralWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/sloboda">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js='+
+uralweb_js+'&rand='+Math.random()+uralweb_a+
+'" width="88" height="31" title="Рейтинг UralWeb" /><'+'/a>');
+//-->
+</script>
+
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/sloboda">
+<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js=0" width="88" height="31" title="Рейтинг UralWeb" /></a>
+</noscript>
+<!-- конец кода счетчика UralWeb -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' title='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+<!-- begin of Top100 code -->
+
+<!-- начало Екатеринбургский рейтинг -->
+<a href="http://www.eb24.ru/top/?do=v&i=284" target="_blank" title="Рейтинг сайтов Екатеринбурга"><img src="http://www.eb24.ru/top/?do=in&id=284" border="0"></a>
+<!--  конец  Екатеринбургский рейтинг -->
+</noscript>
+<!-- end of Top100 code -->
+</a>
+<!-- Best-Stroy.ru counter code start -->
+<script type="text/javascript">
+var id = 39416; var type = 8; var rnd = Math.random(); var c  = '<a href="http://best-stroy.ru/" target="_blank">';
+c += '<img src="http://best-stroy.ru/counter.php?rnd=' + rnd + '&id=' + id + '&type=' + type + '&hidden=0"';
+c += ' width="88" height="31" border="0" title="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ" /></a>';
+document.write(c);
+</script>
+<noscript>
+<a href="http://best-stroy.ru/" target="_blank"><img src="http://best-stroy.ru/counter.php?id=39416&type=8&hidden=0" width="88" height="31" border="0" title="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ"></a>
+</noscript>
+<!-- Best-Stroy.ru counter code end -->
+<!-- autocheck by push2check.com -->
+<a href="http://push2check.com/ural-sloboda.vidicor.ru" target="_blank"  title="Push 2 Check">
+<img src="http://auto.push2check.com/p.php?d=ural-sloboda.vidicor.ru&w=88&h=31&bw=2&bg=FAFA57&f=269C26&b=228B22&png=1&pngi=1&psn=Ural%20Sloboda&plc=all" style="border-style: none" title="Push 2 Check"/></a>
+<!-- autocheck by push2check.com -->
+</p>
+<!--rosfirm.ru informer-->
+<a href="http://ekb.rosfirm.ru" target=_blank><img width="88" height="31" src="http://script.rosfirm.ru/counter.gif?company=66.88423" alt="Рейтинг РосФирм" title="Рейтинг компании на бизнес-портале РосФирм"></a>
+<!--end rosfirm.ru informer-->
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=5399785&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/5399785/2_0_FFEC20FF_FFCC00FF_0_pageviews"
+style="width:80px; height:31px; border:0;" title="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
+
+<!-- /Yandex.Metrika informer -->
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" title="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@zem.ru counter-->
+
+<a style="border:none;padding:0;margin:0;text-decoration:none;" href="http://top.zem.ru/"><img style="border:none;padding:0;margin:0;width:88px;height:31px;" src="http://top.zem.ru/counter.php?key=1bf0acd6e85dbdd23f237a4e465d7081" title="Счётчик Зем.Ру" /></a>
+
+<!-- // Rating@zem.ru counter-->
+
+<script type="text/javascript"><!--
+document.write('<a href="http://click.kmindex.ru/?uid=84392" target=_top><img '+
+'src="http://counting.kmindex.ru/8.gif?uid=84392&r='+escape(document.referrer)+
+'&'+Math.random()+'" width=88 height=31 border=0 title=KMindex></a>')
+//--></script>
+</p>
+<!--************CODE GEOGLOBE************-->
+<script type="text/javascript" src="http://geoloc7.geovisite.com/private/geoglobe.js?compte=188078604294"></script>
+<noscript>
+<a href="http://www.geovisites.com/zoom.php"  target="_blank"><img src="http://geoloc7.geovisite.com/private/geoglobe.php?compte=188078604294" border="0" title="widget"></a>
+<br>Please do not change this code for a perfect fonctionality of your counter
+<a href="http://www.geovisite.com/">widget</a>
+</noscript>
+<!--************END CODE GEOGLOBE************-->
+</p>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://ural-sloboda.vidicor.ru" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://ural-sloboda.vidicor.ru" style="border:0px;" title="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+
+</a>
+
+
+
+
+
+
+
+<br>
+           
+      </div>
+<!--    </li>-->
+        <p>&nbsp;</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

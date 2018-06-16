@@ -1,0 +1,428 @@
+
+
+
+<html>
+<head>
+<title>Уральская слобода - Земля</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<style type="text/css">
+<!--
+body {
+    background-image: url(pic/background.jpg);
+}
+-->
+</style></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<div id="Layer1" style="position:absolute; left:0; top:0; width:320px; height:84px; z-index:1"><img src="pic/foto.jpg" width="1004" height="100"></div>
+<div id="Layer2" style="position:absolute; left:0px; top:100; width:152px; height:76px; z-index:2"><img src="pic/Buttons(a).jpg" width="166" height="395"></div>
+<div id="Layer3" style="position:absolute; left:166; top:100; width:20px; height:22px; z-index:3"><img src="pic/Buttons(b).jpg" width="77" height="159"></div>
+
+<div id="Layer4" style="position:absolute; left:84px; top:95px; width:158px; height:22px; z-index:4">
+  <div align="center"> <font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=1">Новости</a></font></div>
+</div>
+
+<div id="Layer4" style="position:absolute; left:56px; top:124px; width:158px; height:22px; z-index:4">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=2">Документы</a></font></div>
+</div>
+
+<div id="Layer5" style="position:absolute; left:36px; top:153px; width:158px; height:24px; z-index:5">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=3">Партнерство</a></font></div>
+</div>
+
+<div id="Layer6" style="position:absolute; left:23px; top:181px; width:158px; height:24px; z-index:6">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=4">Конкурс проектов</a></font></div>
+</div>
+
+<div id="Layer7" style="position:absolute; left:15px; top:211px; width:158px; height:26px; z-index:7">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=5">Ресурная часть</a> </font></div>
+</div>
+
+<div id="Layer8" style="position:absolute; left:10px; top:238px; width:158px; height:22px; z-index:8">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=6">Контакты</a></font></div>
+</div>
+
+<div id="Layer9" style="position:absolute; left:6px; top:266px; width:160px; height:21px; z-index:9">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=14">Авторы</a></font></div>
+</div>
+
+<div id="Layer10" style="position:absolute; left:7px; top:295px; width:158px; height:21px; z-index:10">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=8">СМИ</a></font></div>
+</div>
+
+<div id="Layer11" style="position:absolute; left:6px; top:324px; width:159px; height:22px; z-index:11">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=9">Фотографии</a></font></div>
+</div>
+
+<div id="Layer12" style="position:absolute; left:5px; top:352px; width:160px; height:21px; z-index:12">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=11">О
+    программе </a></font></div>
+</div>
+
+<div id="Layer13" style="position:absolute; left:7px; top:381px; width:158px; height:22px; z-index:13">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=12">Экология</a></font></div>
+</div>
+
+<div id="Layer14" style="position:absolute; left:6px; top:410px; width:159px; height:23px; z-index:14">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="main.php?id_cat=13">Экономика</a></font></div>
+</div>
+
+<div id="Layer15" style="position:absolute; left:6px; top:440px; width:160px; height:21px; z-index:15">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/forum/" target="_blank">Форум</a></font></div>
+</div>
+
+<div id="Layer16" style="position:absolute; left:7px; top:467px; width:157px; height:23px; z-index:16">
+  <div align="center"><font face="Impact" size="3" color="#FFFFFF"><a href="/">На главную</a></font></div>
+</div>
+<div id="Layer17" style="position:absolute; left:221px; top:123px; width:771px; height:464px; z-index:17">
+  <div align="left">
+    <!--    <li>-->
+      <div align="justify"><div align="center"><a href="http://ural-sloboda.vidicor.ru/main.php?id_cat=10" target=_blank><img src=pic/ssylki/genplan.jpg width=701 height=98 border=0 alt="ИНТЕРАКТИВНАЯ КАРТА родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<img src="http://d0.cd.bc.a1.top.mail.ru/counter'+'?id=1888311;js='+js+
+a+';rand='+Math.random()+'" height="1" width="1" alt="top.mail.ru" border="0">');
+if(11<js)d.write('<'+'!-- ')//--></script>
+<noscript><img src="http://d0.cd.bc.a1.top.mail.ru/counter?js=na;id=1888311" 
+height="1" width="1" alt="top.mail.ru" border="0"></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">2009 ГОД. Работы по строительству дорог первой очереди в поселении УРАЛЬСКАЯ СЛОБОДА. Отсыпано 3,5 км дорог.</font></b></H4></p>
+<a href='pic/doroga/foto/may2009/ural-sloboda_11.jpg'target="_blank"><img src='pic/doroga/foto/may2009/ural-sloboda_11+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iun2009/ural-sloboda_11.jpg' target="_blank"><img src='pic/doroga/foto/iun2009/ural-sloboda_11+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iun2009/ural-sloboda_12.jpg'target="_blank"><img src='pic/doroga/foto/iun2009/ural-sloboda_12+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iun2009/ural-sloboda_13.jpg'target="_blank"><img src='pic/doroga/foto/iun2009/ural-sloboda_13+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iun2009/ural-sloboda_14.jpg'target="_blank"><img src='pic/doroga/foto/iun2009/ural-sloboda_14+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iul2009/ural-sloboda_11.jpg' target="_blank"><img src='pic/doroga/foto/iul2009/ural-sloboda_11+.jpg' width="123" height="98" border="0"></a></p>
+
+<a href='pic/doroga/foto/iul2009/ural-sloboda_12.jpg'target="_blank"><img src='pic/doroga/foto/iul2009/ural-sloboda_12+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/iul2009/ural-sloboda_13.jpg' target="_blank"><img src='pic/doroga/foto/iul2009/ural-sloboda_13+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_11.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_11+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_12.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_12+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_13.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_13+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_18.jpg' target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_18+.jpg' width="123" height="98" border="0"></a></p>
+
+<a href='pic/doroga/foto/avg2009/ural-sloboda_14.jpg' target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_14+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_15.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_15+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_16.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_16+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_17.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_17+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_20.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_20+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/doroga/foto/avg2009/ural-sloboda_21.jpg'target="_blank"><img src='pic/doroga/foto/avg2009/ural-sloboda_21+.jpg' width="123" height="98" border="0"></a></p>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">2008 ГОД. Начало работ по строительству подъездной дороги к поселению УРАЛЬСКАЯ СЛОБОДА</font></b></H4></p>
+<a href='pic/dor_2008/e.jpg' target="_blank"><img src='pic/dor_2008/ee.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/h.jpg' target="_blank"><img src='pic/dor_2008/hh.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/i.jpg' target="_blank"><img src='pic/dor_2008/ii.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/l.jpg' target="_blank"><img src='pic/dor_2008/ll.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/m.jpg' target="_blank"><img src='pic/dor_2008/mm.jpg' width="123" height="98" border="0"></a></p>
+<a href='pic/dor_2008/n.jpg' target="_blank"><img src='pic/dor_2008/nn.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/o.jpg' target="_blank"><img src='pic/dor_2008/oo.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/q.jpg' target="_blank"><img src='pic/dor_2008/qq.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/r.jpg' target="_blank"><img src='pic/dor_2008/rr.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/t.jpg' target="_blank"><img src='pic/dor_2008/tt.jpg' width="123" height="98" border="0"></a></p>
+<a href='pic/dor_2008/v.jpg' target="_blank"><img src='pic/dor_2008/vv.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/x.jpg' target="_blank"><img src='pic/dor_2008/xx.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/w.jpg' target="_blank"><img src='pic/dor_2008/ww.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/y.jpg' target="_blank"><img src='pic/dor_2008/yy.jpg' width="123" height="98" border="0"></a>
+<a href='pic/dor_2008/z.jpg' target="_blank"><img src='pic/dor_2008/zz.jpg' width="123" height="98" border="0"></a></p>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">Выезд на участок поселения "Уральская слобода" частных инвесторов</font></b></H4></p>
+<a href='pic/kupil/investor4.jpg' target="_blank"><img src='pic/kupil/inv4+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor2.jpg' target="_blank"><img src='pic/kupil/inv2+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor3.jpg' target="_blank"><img src='pic/kupil/inv3+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor6.jpg' target="_blank"><img src='pic/kupil/inv6+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor7.jpg' target="_blank"><img src='pic/kupil/inv7+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a><br>
+<a href='pic/kupil/investor5.jpg' target="_blank"><img src='pic/kupil/inv5+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor5a.jpg' target="_blank"><img src='pic/kupil/inv5a+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor5b.jpg' target="_blank"><img src='pic/kupil/inv5b+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor5c.jpg' target="_blank"><img src='pic/kupil/inv5c+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a>
+<a href='pic/kupil/investor5d.jpg' target="_blank"><img src='pic/kupil/inv5d+.jpg' width="123" height="98" border="0"alt="Уральская слобода"></a><br>
+<a href='pic/blag/1.jpg' target="_blank"><img src='pic/blag/1+.jpg' width="123" height="98" border="0"alt="Уральская слобода. ООО МАТУР"></a>
+<a href='pic/blag/2.jpg' target="_blank"><img src='pic/blag/2+.jpg' width="123" height="98" border="0"alt="Уральская слобода.ООО МАТУР"></a>
+<a href='pic/blag/3.jpg' target="_blank"><img src='pic/blag/3+.jpg' width="123" height="98" border="0"alt="Уральская слобода. ООО МАТУР"></a>
+<a href='pic/blag/7.jpg' target="_blank"><img src='pic/blag/7+.jpg' width="123" height="98" border="0"alt="Уральская слобода. ООО МАТУР"></a>
+<a href='pic/blag/=.jpg' target="_blank"><img src='pic/blag/=+.jpg' width="123" height="98" border="0"alt="Уральская слобода. ООО МАТУР"></a><br>
+<a href='pic/blag/4.jpg' target="_blank"><img src='pic/blag/4+.jpg' width="98" height="123" border="0"alt="Уральская слобода. ООО МАТУР"></a>
+<a href='pic/kupil/investor4a.jpg' target="_blank"><img src='pic/kupil/inv4a+.jpg' width="98" height="123" border="0"alt="Уральская слобода. ООО МАТУР"></a>
+<a href='pic/blag/5.jpg' target="_blank"><img src='pic/blag/5+.jpg' width="98" height="123" border="0"alt="Уральская слобода.ООО МАТУР"></a>
+<a href='pic/kupil/investor4b.jpg' target="_blank"><img src='pic/kupil/inv4b+.jpg' width="98" height="123" border="0"alt="Уральская слобода.ООО МАТУР"></a>
+<a href='pic/blag/6.jpg' target="_blank"><img src='pic/blag/6+.jpg' width="98" height="123" border="0"alt="Уральская слобода. ООО МАТУР"></a></p>
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">Презентация проекта "Родовое поселение УРАЛЬСКАЯ СЛОБОДА" 9 июля 2004 года в УрГАХА (г. Екатеринбург)</font></b></H4></p>
+<a href='pic/fotogr/prez2004/vlad2004a.jpg' target="_blank"><img src='pic/fotogr/prez2004/prez2004+.jpg' width="123" height="98" border="0"alt="Вступительное слово Директора Фонда Инвестиций и инноваций УрФО Козлова Олега Анастасьевича"></a>
+<a href='pic/fotogr/prez2004/vla2004a.jpg' target="_blank"><img src='pic/fotogr/prez2004/vla2004+.jpg' width="123" height="98" border="0"alt="Доклад генерального директора ООО МАТУР Соперникова Владимира Евгеньевича"></a>
+<a href='pic/fotogr/prez2004/slush.jpg' target="_blank"><img src='pic/fotogr/prez2004/slush+.jpg' width="123" height="98" border="0"alt="Представители организаций и властных структур во время выступления Соперникова В.Е."></a>
+<a href='pic/fotogr/prez2004/vl2004.jpg' target="_blank"><img src='pic/fotogr/prez2004/vl2004+.jpg' width="123" height="98" border="0"alt="Соперников Владимир Евгеньевич отвечает на вопросы"></a>
+<a href='pic/fotogr/prez2004/kor.jpg' target="_blank"><img src='pic/fotogr/prez2004/kor+.jpg' width="123" height="98" border="0"alt="Интервью для СМИ после презентации проекта"></a></p>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">Освящение места под Храм на вершине горы Чащевитой 18 ноября 2004 года</font></b></H4></p>
+<a href='pic/fotogr/prez2004/osvyashenie.jpg' target="_blank"><img src='pic/fotogr/prez2004/osvyashenie+.jpg' width="123" height="98" border="0"alt="Отец Андрей во время проведения обряда освящения места под православный Храм (нажмите, чтобы посмотреть несколько фотографий)"></a> 
+<a href='pic/fotogr/google/1kar.jpg' target="_blank"><img src='pic/fotogr/google/1+.jpg' width="123" height="98" border="0"alt="Россия. Уральский Федеральный округ. Уральская слобода."></a>
+<a href='pic/fotogr/google/2kar.jpg' target="_blank"><img src='pic/fotogr/google/2+.jpg' width="123" height="98" border="0" alt="Свердловская область. Екатеринбург. Уральская слобода."></a>
+<a href='pic/fotogr/google/3kar.jpg' target="_blank"><img src='pic/fotogr/google/3+.jpg' width="123" height="98" border="0" alt="Окрестности Екатеринбурга. Уральская слобода."></a>
+<a href='pic/domholm/googl.jpg' target="_blank"><img src='pic/fotogr/google/4+.jpg' width="123" height="98" border="0"alt="Местоположение Уральской слободы.Коттеджные посёлки Екатеринбурга"></a>
+<a href='pic/fotogr/google/5maket.jpg' target="_blank"><img src='pic/fotogr/google/5+.jpg' width="123" height="98" border="0" alt="Уральская слобода. Коттеджный поселок Екатеринбурга"></a></p>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">УНИКАЛЬНАЯ природа родового коттеджного поселения "УРАЛЬСКАЯ СЛОБОДА"</font></b></H4></p>
+<a href='pic/fotogr/prir/trakt2.jpg' target="_blank"><img src='pic/fotogr/prir/trakt2+.jpg' width="123" height="98" border="0"alt="Трасса Екатеринбург-Серов"></a>
+<a href='pic/fotogr/prir/trakt.jpg' target="_blank"><img src='pic/fotogr/prir/trakt+.jpg' width="123" height="98" border="0"alt="Серовский тракт. 40 километр."></a>
+<a href='pic/fotogr/prir/les_doroga.jpg' target="_blank"><img src='pic/fotogr/prir/les_doroga+.jpg' width="123" height="98" border="0"alt="Подъездная дорога к Уральской слободе. 1,1 км от Серовского тракта"></a>
+<a href='pic/fotogr/prir/gora.jpg' target="_blank"><img src='pic/fotogr/prir/gora+.jpg' width="123" height="98" border="0"alt="Гора Чащевитая. Осень 2003 года."></a>
+<a href='pic/fotogr/prir/gora2.jpg' target="_blank"><img src='pic/fotogr/prir/gora2+.jpg' width="123" height="98" border="0"alt="Гора Чащевитая. Летом 2005 года"></a></p>
+
+<a href='pic/fotogr/prir/lep2.jpg' target="_blank"><img src='pic/fotogr/prir/lep2+.jpg' width="98" height="123" border="0"alt="ЛЭП"></a>
+<a href='pic/fotogr/prir/les.jpg' target="_blank"><img src='pic/fotogr/prir/les+.jpg' width="98" height="123" border="0"alt="УРАЛЬСКАЯ СЛОБОДА окружена смешаными лесами преимущественно лиственных пород"></a>
+<a href='pic/fotogr/prir/kedr3.jpg' target="_blank"><img src='pic/fotogr/prir/kedr3+.jpg' width="98" height="123" border="0"alt="Такие кедры нередко встречаются на территории родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href='pic/fotogr/prir/na_penek.jpg' target="_blank"><img src='pic/fotogr/prir/na_penek+.jpg' width="98" height="123" border="0"alt="В советской период здесь росли могучие кедры"></a>
+<a href='pic/fotogr/prir/penek2.jpg' target="_blank"><img src='pic/fotogr/prir/penek2+.jpg' width="98" height="123" border="0"alt="Трухлявый с первого взгляда пень могучего кедра дал новые побеги"></a>
+<a href='pic/fotogr/prir/veresk.jpg' target="_blank"><img src='pic/fotogr/prir/veresk+.jpg' width="98" height="123" border="0"alt="Богатая флора восточного склона горы Чащевитой. Куст вереска"></a></p>
+
+<a href='pic/fotogr/prir/burelom1.jpg' target="_blank"><img src='pic/fotogr/prir/burelom+.jpg' width="123" height="98" border="0"alt="На территории будущего поселения встречаются места, где пройти без мачете просто невозможно"></a>
+<a href='pic/fotogr/prir/shishki.jpg' target="_blank"><img src='pic/fotogr/prir/shishki+.jpg' width="123" height="98" border="0"alt="Шишки на макушке вековой ели"></a>
+<a href='pic/fotogr/prir/kedr.jpg' target="_blank"><img src='pic/fotogr/prir/kedr+.jpg' width="123" height="98" border="0"alt="Ель с шишками на самой кроне. Рядом растут кедры"></a>
+<a href='pic/fotogr/prir/ryabina.jpg' target="_blank"><img src='pic/fotogr/prir/ryabina+.jpg' width="123" height="98" border="0"alt="Кусты красноплодной рябины можно увидеть повсюду"></a>
+<a href='pic/foto1/p9.jpg' target="_blank"><img src='pic/z/p9z.jpg' width="123" height="98" border="0" alt="Созревшие гроздья дикой рябины очень сочные и сладкие"></a>
+</p>
+<a href='pic/fotogr/prir/siren.jpg' target="_blank"><img src='pic/fotogr/prir/siren+.jpg' width="123" height="98" border="0"alt="Посаженный ещё в 1999 году саженец сирени на сегодняшний день превратился в огромный развесистый куст.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/kust.jpg' target="_blank"><img src='pic/fotogr/prir/kust+.jpg' width="123" height="98" border="0"alt="На этом диком кустарнике к августу появятся ягоды.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/lesnaya_polyanka.jpg' target="_blank"><img src='pic/fotogr/prir/lesnaya_polyanka+.jpg' width="123" height="98" border="0"alt="На солнечных лесных полянах растёт много диковиных цветочков, название которых знают лишь сторожилы. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/kashka.jpg' target="_blank"><img src='pic/fotogr/prir/kashka+.jpg' width="123" height="98" border="0"alt="Цветки клевера встречаются не только на полянках, но и на склонах горы Чащевитой.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/shipov.jpg' target="_blank"><img src='pic/fotogr/prir/shipov+.jpg' width="123" height="98" border="0"alt="Заросли шиповника в период цветения наполняют лес терпким запахом диких роз.Коттеджные поселки Екатеринбурга. Уральская слобода"></a></p>
+
+<a href='pic/fotogr/prir/polevye.jpg' target="_blank"><img src='pic/fotogr/prir/polevye+.jpg' width="123" height="98" border="0"alt="Неприхотливые цветочки можно отыскать среди высокой травы. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/shipovn.jpg' target="_blank"><img src='pic/fotogr/prir/shipovn+.jpg' width="123" height="98" border="0"alt="Цветок дикого шиповника. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/moh.jpg' target="_blank"><img src='pic/fotogr/prir/moh+.jpg' width="123" height="98" border="0"alt="Обилие разнообразных мхов встречается только в экологически чистом месте. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/grib.jpg' target="_blank"><img src='pic/fotogr/prir/grib+.jpg' width="123" height="98" border="0"alt="Вот такие белые грибы растут на горе Чащевитой. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/kamni.jpg' target="_blank"><img src='pic/fotogr/prir/kamni+.jpg' width="123" height="98" border="0"alt="Камни. Коттеджные поселки Екатеринбурга. Уральская слобода"></a></p>
+
+<a href='pic/fotogr/prir/murav.jpg' target="_blank"><img src='pic/fotogr/prir/murav+.jpg' width="123" height="98" border="0"alt="Лесной муравей размером побольше своего городского соплеменника.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/murave.jpg' target="_blank"><img src='pic/fotogr/prir/murave+.jpg' width="123" height="98" border="0"alt="Муравейники - подтверждение исключительной экологии.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/tavatu.jpg' target="_blank"><img src='pic/fotogr/prir/tavatu+.jpg' width="123" height="98" border="0"alt="Отсюда начинается Таватуйское охотничье хозяйство.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/ozero2.jpg' target="_blank"><img src='pic/fotogr/prir/ozero2+.jpg' width="123" height="98" border="0"alt="Летом на берегу этого небольшого дикого озерка любят грется на солнышке лосята.Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/belka1.jpg' target="_blank"><img src='pic/fotogr/prir/belka+.jpg' width="123" height="98" border="0"alt="Белок много и они быстро приручаются. Коттеджные поселки Екатеринбурга. Уральская слобода"></a></p>
+
+<a href='pic/fotogr/prir/uklon.jpg' target="_blank"><img src='pic/fotogr/prir/uklon+.jpg' width="123" height="98" border="0"alt="Богатый горный рельеф местности позволяет создать в УРАЛЬСКОЙ СЛОБОДЕ свою маленькую Швейцарию. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/skit.jpg' target="_blank"><img src='pic/fotogr/prir/skit+.jpg' width="123" height="98" border="0"alt="Временное пристанище охотников и грибников органично вписано в склон горы Чащевитой. Коттеджные поселки Екатеринбурга. Уральская слобода"></a>
+<a href='pic/fotogr/prir/storoj.jpg' target="_blank"><img src='pic/fotogr/prir/storoj+.jpg' width="123" height="98" border="0"alt="Сторожка рубленная"></a>
+<a href='pic/fotogr/prir/kedr2.jpg' target="_blank"><img src='pic/fotogr/prir/kedr2+.jpg' width="123" height="98" border="0"alt="Десятиметровый кедр- украшение любого земельного участка"></a>
+<a href='pic/fotogr/prir/v_penek.jpg' target="_blank"><img src='pic/fotogr/prir/v_penek+.jpg' width="123" height="98" border="0"alt="Пень стопятидесятилетнего кедра при грамотном подходе станет ИЗЮМИНКОЙ одного из земельных участков"></a></p>
+
+<a href='pic/fotogr/prir/ozero.jpg' target="_blank"><img src='pic/fotogr/prir/ozero+.jpg' width="123" height="98" border="0"alt="Естественное озерко рядом с речкой Камышенкой"></a>
+<a href='pic/foto1/p5.jpg'><img src='pic/z/p5z.jpg' width="123" height="98" border="0" alt="Извилистая речушка Камышенка спряталась в нетронутой растительности у подножия горы Чащевитой"></a>
+<a href='pic/fotogr/prir/sosny.jpg' target="_blank"><img src='pic/fotogr/prir/sosny+.jpg' width="123" height="98" border="0"alt="Величавые сосны  УРАЛЬСКОЙ СЛОБОДЫ"></a>
+<a href='pic/fotogr/prir/krona.jpg' target="_blank"><img src='pic/fotogr/prir/krona+.jpg' width="123" height="98" border="0"alt="Богатый растительный покров в УРАЛЬСКОЙ СЛОБОДЕ- главнейший источник целебного лесного  воздуха"></a>
+<a href='pic/fotogr/prir/lesovoz.jpg' target="_blank"><img src='pic/fotogr/prir/lesovoz+.jpg' width="123" height="98" border="0"alt="Лесовозная дорога у подножия горы Чащевитой"></a>
+<a href='pic/fotogr/prir/lep.jpg' target="_blank"><img src='pic/fotogr/prir/lep+.jpg' width="123" height="98" border="0"alt="Линия электропередач"></a></p></p>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">Стенд "Родовое поселение УРАЛЬСКАЯ СЛОБОДА" на выставках  Екатеринбурга</font></b></H4></p>
+<a href='pic/Mar31954.jpg' target="_blank"><img src='pic/z/Mar31954z.jpg' width="123" height="98" border="0"></a> <a href='pic/vystavka7.jpg' target="_blank"><img src='pic/z/vystavka7z.jpg' width="123" height="98" border="0"></a> <a href='pic/vystavka8.jpg' target="_blank"><img src='pic/z/vystavka8z.jpg' width="123" height="98" border="0"></a> <a href='pic/vystavka10.jpg' target="_blank"><img src='pic/z/vystavka10z.jpg' width="123" height="98" border="0"></a> <a href='pic/foto1/v1.jpg' target="_blank"><img src='pic/z/v1z.jpg' width="123" height="98" border="0"></a></p> <a href='pic/foto1/v3.jpg' target="_blank"><img src='pic/z/v3z.jpg' width="123" height="98" border="0"></a> <a href='pic/foto1/stend.jpg' target="_blank"><img src='pic/z/stendz.jpg' width="123" height="98" border="0"></a></p>
+ 
+<a href='pic/dok/nev.jpg'><img src='pic/dok/nev+.jpg' width="123" height="98" border="0"></a>
+<a href='pic/latysh.jpg' target="_blank"><img src='pic/z/latyshz.jpg' width="123" height="98" border="0"></a><a href='pic/fotogr/prez2004/prez_invur.jpg' target="_blank"><img src='pic/fotogr/prez2004/prez_invur+.jpg' width="123" height="98" border="0"></a> <a href='pic/vystavka3.jpg' target="_blank"><img src='pic/z/vystavka3z.jpg' width="123" height="98" border="0"></a>  <a href='pic/glaztur/glaz_soper.jpg' target="_blank"><img src='pic/z/glaz_soperz.jpg' width="123" height="98" border="0"></a><a href='pic/stroy/hak.jpg' target="_blank"><img src='pic/stroy/hak.jpg' width="123" height="98" border="0"></a><br>
+
+<H4><b><div align="center"><font face="FONT" size="4" color="cyan">Индивидуальные жилые дома в родовом поселении "Уральская слобода" (коллекция проектов постоянно пополняется)</font></b></H4></p>
+<a href='pic/ind/homes/elisey.jpg' target="_blank"><img src='pic/ind/mini/elisey1.jpg' width="123" height="98" border="0"alt="ПРОЕКТ 3-320: индивидуальный жилой дом ЕЛИСЕЙ"></a>
+<a href='pic/ind/homes/evgeny.jpg' target="_blank"><img src='pic/ind/mini/evgeny1.jpg' width="123" height="98" border="0"alt="Проект 3-380: индивидуальный жилой дом ЕВГЕНИЙ"></a>
+<a href='pic/ind/homes/vladimir.jpg' target="_blank"><img src='pic/ind/mini/vladimir1.jpg' width="123" height="98" border="0"alt="ПРОЕКТ 3-350: индивидуальный жилой дом ВЛАДИМИР"></a>
+<a href='pic/ind/homes/svyatoslav.jpg' target="_blank"><img src='pic/ind/mini/svyatoslav1.jpg' width="123" height="98" border="0"alt="Проект 3-340: индивидуальный жилой дом СВЯТОСЛАВ"></a>
+<a href='pic/ind/homes/vlastelin.jpg' target="_blank"><img src='pic/ind/mini/vlastelin1.jpg' width="123" height="98" border="0"alt="ПРОЕКТ 3-300: индивидуальный жилой дом ВЛАСТЕЛИН"></a></p>
+<a href='pic/ind/homes/dom_na2_a.jpg'><img src='pic/ind/mini/dom_na2_a.jpg' width="123" height="98" border="0"alt="Проект 2-3-320: индивидуальный жилой ДОМ НА ДВЕ СЕМЬИ с общей хозяйственной зоной (86,3 кб)"></a>
+<a href='pic/ind/homes/dom_na2_b.jpg'><img src='pic/ind/mini/dom_na2_b.jpg' width="123" height="98" border="0"alt="Проект 2-3-320: индивидуальный жилой ДОМ НА ДВЕ СЕМЬИ с общей хозяйственной зоной (90 кб)"></a>
+<a href='pic/domholm/dh.jpg' target="_blank"><img src='pic/domholm/dh+.jpg' width="123" height="98" border="0"alt="Проект 2-300: индивидуальный жилой ДОМ - ХОЛМ"></a>
+<a href='pic/domholm/dh1.jpg' target="_blank"><img src='pic/domholm/dh1+.jpg' width="123" height="98" border="0"alt="Проект 2-300: индивидуальный жилой ДОМ - ХОЛМ"></a>
+<a href='pic/domholm/dh2.jpg' target="_blank"><img src='pic/domholm/dh2+.jpg' width="123" height="98" border="0"alt="Проект 2-300: индивидуальный жилой ДОМ - ХОЛМ"></a></p>
+
+<H4><b><div align=center><font face=FONT size="4" color="yellow"><a href="http://sloboda-ural.ucoz.ru/photo"> ДРУГИЕ ФОТОГРАФИИ из поселения "УРАЛЬСКАЯ СЛОБОДА"</a></font></b></p>
+
+<H4><b><div align=center><font face=FONT size="4" color="yellow"><a href="main.php?id_cat=2"> СМОТРЕТЬ ДРУГИЕ ДОКУМЕНТЫ и НАГРАДЫ родового коттеджного поселения "УРАЛЬСКАЯ СЛОБОДА"</a></font><div></b></p>
+
+<br><u><i><font face="FONT" size="2" color="aquamarine">Авторские права на всю информацию веб-сайта, а также на подбор и расположение материалов принадлежат ООО "МАТУР". Использование материалов и автоматизированное извлечение информации сайта любыми сервисами без письменного разрешения авторов преследуется по закону. Все вопросы направлять по e-mail: matur@k96.ru</font></i></u></p>
+
+<a href="http://sloboda-ural.ucoz.ru" target=_blank><img src=pic/ssylki/su.jpg width=252 height=100 border=0 alt="ВСЁ ВИДЕО коттеджного поселка УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://ural-sloboda.ucoz.ru/index/proekt_uralskaja_sloboda_sopernikov_v_sopernikova_m_1998_god/0-9" target=_blank><img src=pic/ssylki/us.jpg width=252 height=100 border=0 alt="КОНЦЕПЦИЯ родового поселения УРАЛЬСКАЯ СЛОБОДА"></a>
+<a href="http://sopernikov.narod.ru" target=_blank><img src=pic/ssylki/matur.jpg width=252 height=100 border=0 alt="ООО МАТУР-собственник земли,разработчик концепции и застройщик родового коттеджного поселения УРАЛЬСКАЯ СЛОБОДА (сайт в разработке)"></a></p>
+
+<!--Rating@Mail.ru logo-->
+<a target="_top" href="http://top.mail.ru/jump?from=1888311">
+<img src="http://d0.cd.bc.a1.top.mail.ru/counter?id=1888311;t=138;l=1" 
+border="0" height="40" width="88" alt="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru logo-->
+
+<!-- Начало кода счетчика UralWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/sloboda">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js='+
+uralweb_js+'&rand='+Math.random()+uralweb_a+
+'" width="88" height="31" alt="Рейтинг UralWeb" /><'+'/a>');
+//-->
+</script>
+
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/sloboda">
+<img border="0" src="http://hc.uralweb.ru/hc/sloboda?js=0" width="88" height="31" alt="Рейтинг UralWeb" /></a>
+</noscript>
+<!-- конец кода счетчика UralWeb -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- начало Екатеринбургский рейтинг -->
+<a href="http://www.eb24.ru/top/?do=v&i=284" target="_blank" title="Рейтинг сайтов Екатеринбурга"><img src="http://www.eb24.ru/top/?do=in&id=284" border="0"></a>
+<!--  конец  Екатеринбургский рейтинг -->
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2471356"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2471356/">
+<img src="https://scounter.rambler.ru/top100.cnt?2471356" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Best-Stroy.ru counter code start -->
+<script type="text/javascript">
+var id = 39416; var type = 8; var rnd = Math.random(); var c  = '<a href="http://best-stroy.ru/" target="_blank">';
+c += '<img src="http://best-stroy.ru/counter.php?rnd=' + rnd + '&id=' + id + '&type=' + type + '&hidden=0"';
+c += ' width="88" height="31" border="0" alt="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ" /></a>';
+document.write(c);
+</script>
+<noscript>
+<a href="http://best-stroy.ru/" target="_blank"><img src="http://best-stroy.ru/counter.php?id=39416&type=8&hidden=0" width="88" height="31" border="0" alt="Строительство и ремонт - строительный портал БЕСТ-СТРОЙ.РУ"></a>
+</noscript>
+<!-- Best-Stroy.ru counter code end -->
+
+<!-- autocheck by push2check.com -->
+<a href="http://push2check.com/ural-sloboda.vidicor.ru" target="_blank"  title="Push 2 Check">
+<img src="http://auto.push2check.com/p.php?d=ural-sloboda.vidicor.ru&w=88&h=31&bw=2&bg=FAFA57&f=269C26&b=228B22&png=1&pngi=1&psn=Ural%20Sloboda&plc=all" style="border-style: none" alt="Push 2 Check"/></a>
+<!-- autocheck by push2check.com -->
+
+
+</p>
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=5399785&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/5399785/2_0_FFEC20FF_FFCC00FF_0_pageviews"
+style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter5399785 = new Ya.Metrika(5399785);
+             yaCounter5399785.clickmap(true);
+             yaCounter5399785.trackLinks(true);
+        
+        } catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/5399785" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@zem.ru counter-->
+
+<a style="border:none;padding:0;margin:0;text-decoration:none;" href="http://top.zem.ru/"><img style="border:none;padding:0;margin:0;width:88px;height:31px;" src="http://top.zem.ru/counter.php?key=1bf0acd6e85dbdd23f237a4e465d7081" alt="Счётчик Зем.Ру" /></a>
+
+<!-- // Rating@zem.ru counter-->
+<script type="text/javascript"><!--
+document.write('<a href="http://click.kmindex.ru/?uid=84392" target=_top><img '+
+'src="http://counting.kmindex.ru/8.gif?uid=84392&r='+escape(document.referrer)+
+'&'+Math.random()+'" width=88 height=31 border=0 alt=KMindex></a>')
+//--></script>
+</p>
+<!--************CODE GEOGLOBE************-->
+<script type="text/javascript" src="http://geoloc7.geovisite.com/private/geoglobe.js?compte=188078604294"></script>
+<noscript>
+<a href="http://www.geovisites.com/zoom.php"  target="_blank"><img src="http://geoloc7.geovisite.com/private/geoglobe.php?compte=188078604294" border="0" alt="widget"></a>
+<br>Please do not change this code for a perfect fonctionality of your counter
+<a href="http://www.geovisite.com/">widget</a>
+</noscript>
+<!--************END CODE GEOGLOBE************-->
+</p>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://ural-sloboda.vidicor.ru" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://ural-sloboda.vidicor.ru" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+</a>
+<br>
+           
+      </div>
+<!--    </li>-->
+        <p>&nbsp;</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>
